@@ -1,0 +1,6738 @@
+{
+	"KcalTab": [
+		{
+			"name": "100% natural cereal 1 oz",
+			"protein": "3",
+			"fat": "6",
+			"carbo": "18",
+			"kcal": "135"
+		},
+		{
+			"name": "1000 island salad drsng local 1 tbsp",
+			"protein": "0",
+			"fat": "2",
+			"carbo": "2",
+			"kcal": "25"
+		},
+		{
+			"name": "1000 island salad drsngreglr 1 tbsp",
+			"protein": "0",
+			"fat": "6",
+			"carbo": "2",
+			"kcal": "60"
+		},
+		{
+			"name": "40% bran flakes kellogg's 1 oz",
+			"protein": "4",
+			"fat": "1",
+			"carbo": "22",
+			"kcal": "90"
+		},
+		{
+			"name": "40% bran flakes post 1 oz",
+			"protein": "3",
+			"fat": "0",
+			"carbo": "22",
+			"kcal": "90"
+		},
+		{
+			"name": "Alfalfa seeds sprouted raw 1 cup",
+			"protein": "1",
+			"fat": "0",
+			"carbo": "1",
+			"kcal": "10"
+		},
+		{
+			"name": "All-bran cereal 1 oz",
+			"protein": "4",
+			"fat": "1",
+			"carbo": "21",
+			"kcal": "70"
+		},
+		{
+			"name": "Almonds slivered 1 cup",
+			"protein": "27",
+			"fat": "70",
+			"carbo": "28",
+			"kcal": "795"
+		},
+		{
+			"name": "Almonds whole 1 oz",
+			"protein": "6",
+			"fat": "15",
+			"carbo": "6",
+			"kcal": "165"
+		},
+		{
+			"name": "Angelfood cake from mix 1 cake",
+			"protein": "38",
+			"fat": "2",
+			"carbo": "342",
+			"kcal": "1510"
+		},
+		{
+			"name": "Angelfood cake from mix 1 piece",
+			"protein": "3",
+			"fat": "0",
+			"carbo": "29",
+			"kcal": "125"
+		},
+		{
+			"name": "Apple juice canned 1 cup",
+			"protein": "0",
+			"fat": "0",
+			"carbo": "29",
+			"kcal": "115"
+		},
+		{
+			"name": "Apple pie 1 pie",
+			"protein": "21",
+			"fat": "105",
+			"carbo": "360",
+			"kcal": "2420"
+		},
+		{
+			"name": "Apple pie 1 piece",
+			"protein": "3",
+			"fat": "18",
+			"carbo": "60",
+			"kcal": "405"
+		},
+		{
+			"name": "Apples dried sulfured 10 rings",
+			"protein": "1",
+			"fat": "0",
+			"carbo": "42",
+			"kcal": "155"
+		},
+		{
+			"name": "Apples raw peeled sliced 1 cup",
+			"protein": "0",
+			"fat": "0",
+			"carbo": "16",
+			"kcal": "65"
+		},
+		{
+			"name": "Apples raw unpeeled 2 per lb 1 apple",
+			"protein": "0",
+			"fat": "1",
+			"carbo": "32",
+			"kcal": "125"
+		},
+		{
+			"name": "Apples raw unpeeled 3 per lb 1 apple",
+			"protein": "0",
+			"fat": "0",
+			"carbo": "21",
+			"kcal": "80"
+		},
+		{
+			"name": "Applesauce canned sweetened 1 cup",
+			"protein": "0",
+			"fat": "0",
+			"carbo": "51",
+			"kcal": "195"
+		},
+		{
+			"name": "Applesauce canned unsweetened 1 cup",
+			"protein": "0",
+			"fat": "0",
+			"carbo": "28",
+			"kcal": "105"
+		},
+		{
+			"name": "Apricot nectar no added vit c1 cup",
+			"protein": "1",
+			"fat": "0",
+			"carbo": "36",
+			"kcal": "140"
+		},
+		{
+			"name": "Apricot canned heavy syrup 1 cup",
+			"protein": "1",
+			"fat": "0",
+			"carbo": "55",
+			"kcal": "215"
+		},
+		{
+			"name": "Apricot canned heavy syrup 3 halves",
+			"protein": "0",
+			"fat": "0",
+			"carbo": "18",
+			"kcal": "70"
+		},
+		{
+			"name": "Apricots canned juice pack 1 cup",
+			"protein": "2",
+			"fat": "0",
+			"carbo": "31",
+			"kcal": "120"
+		},
+		{
+			"name": "Apricots canned juice pack 3 halves",
+			"protein": "1",
+			"fat": "0",
+			"carbo": "10",
+			"kcal": "40"
+		},
+		{
+			"name": "Apricots dried cooked unswtn 1 cup",
+			"protein": "3",
+			"fat": "0",
+			"carbo": "55",
+			"kcal": "210"
+		},
+		{
+			"name": "Apricots dried uncooked 1 cup",
+			"protein": "5",
+			"fat": "1",
+			"carbo": "80",
+			"kcal": "310"
+		},
+		{
+			"name": "Apricots raw 3 aprcot",
+			"protein": "1",
+			"fat": "0",
+			"carbo": "12",
+			"kcal": "50"
+		},
+		{
+			"name": "Artichokes globe cooked drn1 artchk",
+			"protein": "3",
+			"fat": "0",
+			"carbo": "12",
+			"kcal": "55"
+		},
+		{
+			"name": "Asparagus ckd frm frzdrs per 4 spears",
+			"protein": "2",
+			"fat": "0",
+			"carbo": "3",
+			"kcal": "15"
+		},
+		{
+			"name": "Asparagus ckd frm frzdrn cut 1 cup",
+			"protein": "5",
+			"fat": "1",
+			"carbo": "9",
+			"kcal": "50"
+		},
+		{
+			"name": "Asparagus ckd frm raw dr cut 1 cup",
+			"protein": "5",
+			"fat": "1",
+			"carbo": "8",
+			"kcal": "45"
+		},
+		{
+			"name": "Asparagus ckd frm rawdrs per 4 spears",
+			"protein": "2",
+			"fat": "0",
+			"carbo": "3",
+			"kcal": "15"
+		},
+		{
+			"name": "Asparagus canned spears no sal t4 spears",
+			"protein": "1",
+			"fat": "0",
+			"carbo": "2",
+			"kcal": "10"
+		},
+		{
+			"name": "Asparagus canned spears w/salt 4 spears",
+			"protein": "1",
+			"fat": "0",
+			"carbo": "2",
+			"kcal": "10"
+		},
+		{
+			"name": "Avocados california 1 avocdo",
+			"protein": "4",
+			"fat": "30",
+			"carbo": "12",
+			"kcal": "305"
+		},
+		{
+			"name": "Avocados florida 1 avocdo",
+			"protein": "5",
+			"fat": "27",
+			"carbo": "27",
+			"kcal": "340"
+		},
+		{
+			"name": "Bagels egg 1 bagel",
+			"protein": "7",
+			"fat": "2",
+			"carbo": "38",
+			"kcal": "200"
+		},
+		{
+			"name": "Bagels plain 1 bagel",
+			"protein": "7",
+			"fat": "2",
+			"carbo": "38",
+			"kcal": "200"
+		},
+		{
+			"name": "Baking powder low sodium 1 tsp",
+			"protein": "0",
+			"fat": "0",
+			"carbo": "1",
+			"kcal": "5"
+		},
+		{
+			"name": "Baking powder strght phosphat 1 tsp",
+			"protein": "0",
+			"fat": "0",
+			"carbo": "1",
+			"kcal": "5"
+		},
+		{
+			"name": "Baking powder sasca po 4 1 tsp",
+			"protein": "0",
+			"fat": "0",
+			"carbo": "1",
+			"kcal": "5"
+		},
+		{
+			"name": "Baking powder sasca po 4+caso 4 1 tsp",
+			"protein": "0",
+			"fat": "0",
+			"carbo": "1",
+			"kcal": "5"
+		},
+		{
+			"name": "Baking pwdr biscuits from mix 1 biscut",
+			"protein": "2",
+			"fat": "3",
+			"carbo": "14",
+			"kcal": "95"
+		},
+		{
+			"name": "Baking pwdr biscuits homerecpe 1 biscut",
+			"protein": "2",
+			"fat": "5",
+			"carbo": "13",
+			"kcal": "100"
+		},
+		{
+			"name": "Baking pwdr biscuits refrgdogh 1 biscut",
+			"protein": "1",
+			"fat": "2",
+			"carbo": "10",
+			"kcal": "65"
+		},
+		{
+			"name": "Bamboo shoots canned drained 1 cup",
+			"protein": "2",
+			"fat": "1",
+			"carbo": "4",
+			"kcal": "25"
+		},
+		{
+			"name": "Bananas 1 banana",
+			"protein": "1",
+			"fat": "1",
+			"carbo": "27",
+			"kcal": "105"
+		},
+		{
+			"name": "Bananas sliced 1 cup",
+			"protein": "2",
+			"fat": "1",
+			"carbo": "35",
+			"kcal": "140"
+		},
+		{
+			"name": "Barbecue sauce 1 tbsp",
+			"protein": "0",
+			"fat": "0",
+			"carbo": "2",
+			"kcal": "10"
+		},
+		{
+			"name": "Barley pearled light uncookd 1 cup",
+			"protein": "16",
+			"fat": "2",
+			"carbo": "158",
+			"kcal": "700"
+		},
+		{
+			"name": "Bean sprouts mung cookd dran 1 cup",
+			"protein": "3",
+			"fat": "0",
+			"carbo": "5",
+			"kcal": "25"
+		},
+		{
+			"name": "Bean sprouts mung raw 1 cup",
+			"protein": "3",
+			"fat": "0",
+			"carbo": "6",
+			"kcal": "30"
+		},
+		{
+			"name": "Bean with bacon soup canned 1 cup",
+			"protein": "8",
+			"fat": "6",
+			"carbo": "23",
+			"kcal": "170"
+		},
+		{
+			"name": "Beans dry canned w/frankfurter 1 cup",
+			"protein": "19",
+			"fat": "18",
+			"carbo": "32",
+			"kcal": "365"
+		},
+		{
+			"name": "Beans dry canned w/pork+swtsce 1 cup",
+			"protein": "16",
+			"fat": "12",
+			"carbo": "54",
+			"kcal": "385"
+		},
+		{
+			"name": "Beans dry canned w/pork+tomsce 1 cup",
+			"protein": "16",
+			"fat": "7",
+			"carbo": "48",
+			"kcal": "310"
+		},
+		{
+			"name": "Beef and vegetable stewhm rcp 1 cup",
+			"protein": "16",
+			"fat": "11",
+			"carbo": "15",
+			"kcal": "220"
+		},
+		{
+			"name": "Beef broth boulln consmcnnd 1 cup",
+			"protein": "3",
+			"fat": "1",
+			"carbo": "0",
+			"kcal": "15"
+		},
+		{
+			"name": "Beef gravy canned 1 cup",
+			"protein": "9",
+			"fat": "5",
+			"carbo": "11",
+			"kcal": "125"
+		},
+		{
+			"name": "Beef heart braised 3 oz",
+			"protein": "24",
+			"fat": "5",
+			"carbo": "0",
+			"kcal": "150"
+		},
+		{
+			"name": "Beef liver fried 3 oz",
+			"protein": "23",
+			"fat": "7",
+			"carbo": "7",
+			"kcal": "185"
+		},
+		{
+			"name": "Beef noodle soup canned 1 cup",
+			"protein": "5",
+			"fat": "3",
+			"carbo": "9",
+			"kcal": "85"
+		},
+		{
+			"name": "Beef potpie home recipe 1 piece",
+			"protein": "21",
+			"fat": "30",
+			"carbo": "39",
+			"kcal": "515"
+		},
+		{
+			"name": "Beef roast eye o rnd lean 2.6 oz",
+			"protein": "22",
+			"fat": "5",
+			"carbo": "0",
+			"kcal": "135"
+		},
+		{
+			"name": "Beef roast eye o rndlean+fat 3 oz",
+			"protein": "23",
+			"fat": "12",
+			"carbo": "0",
+			"kcal": "205"
+		},
+		{
+			"name": "Beef roast rib lean + fat 3 oz",
+			"protein": "19",
+			"fat": "26",
+			"carbo": "0",
+			"kcal": "315"
+		},
+		{
+			"name": "Beef roast rib lean only 2.2 oz",
+			"protein": "17",
+			"fat": "9",
+			"carbo": "0",
+			"kcal": "150"
+		},
+		{
+			"name": "Beef steak sirloin broil lean 2.5 oz",
+			"protein": "22",
+			"fat": "6",
+			"carbo": "0",
+			"kcal": "150"
+		},
+		{
+			"name": "Beef steak sirloin broil ln+ft  3 oz",
+			"protein": "23",
+			"fat": "15",
+			"carbo": "0",
+			"kcal": "240"
+		},
+		{
+			"name": "Beef canned corned 3 oz",
+			"protein": "22",
+			"fat": "10",
+			"carbo": "0",
+			"kcal": "185"
+		},
+		{
+			"name": "Beef ckd bttm round lean only 2.8 oz",
+			"protein": "25",
+			"fat": "8",
+			"carbo": "0",
+			"kcal": "175"
+		},
+		{
+			"name": "Beef ckd bttm round lean+ fat 3 oz",
+			"protein": "25",
+			"fat": "13",
+			"carbo": "0",
+			"kcal": "220"
+		},
+		{
+			"name": "Beef ckd chuck blade lean+fat 3 oz",
+			"protein": "22",
+			"fat": "26",
+			"carbo": "0",
+			"kcal": "325"
+		},
+		{
+			"name": "Beef ckd chuck blade lean only 2.2 oz",
+			"protein": "19",
+			"fat": "9",
+			"carbo": "0",
+			"kcal": "170"
+		},
+		{
+			"name": "Beef dried chipped 2.5 oz",
+			"protein": "24",
+			"fat": "4",
+			"carbo": "0",
+			"kcal": "145"
+		},
+		{
+			"name": "Beer light 12 fl oz",
+			"protein": "1",
+			"fat": "0",
+			"carbo": "5",
+			"kcal": "95"
+		},
+		{
+			"name": "Beer regular 12 fl oz",
+			"protein": "1",
+			"fat": "0",
+			"carbo": "13",
+			"kcal": "150"
+		},
+		{
+			"name": "Beet greens cooked drained  1 cup",
+			"protein": "4",
+			"fat": "0",
+			"carbo": "8",
+			"kcal": "40"
+		},
+		{
+			"name": "Beets canned drained no salt 1 cup",
+			"protein": "2",
+			"fat": "0",
+			"carbo": "12",
+			"kcal": "55"
+		},
+		{
+			"name": "Beets canned drained w/ salt 1 cup",
+			"protein": "2",
+			"fat": "0",
+			"carbo": "12",
+			"kcal": "55"
+		},
+		{
+			"name": "Beets cooked drained diced 1 cup",
+			"protein": "2",
+			"fat": "0",
+			"carbo": "11",
+			"kcal": "55"
+		},
+		{
+			"name": "Beets cooked drained whole 2 beets",
+			"protein": "1",
+			"fat": "0",
+			"carbo": "7",
+			"kcal": "30"
+		},
+		{
+			"name": "Black beans dry cooked drand 1 cup",
+			"protein": "15",
+			"fat": "1",
+			"carbo": "41",
+			"kcal": "225"
+		},
+		{
+			"name": "Blackberries raw 1 cup",
+			"protein": "1",
+			"fat": "1",
+			"carbo": "18",
+			"kcal": "75"
+		},
+		{
+			"name": "Blackeye peas immatr raw cked 1 cup",
+			"protein": "13",
+			"fat": "1",
+			"carbo": "30",
+			"kcal": "180"
+		},
+		{
+			"name": "Blackeye peas immtr frzn cked 1 cup",
+			"protein": "14",
+			"fat": "1",
+			"carbo": "40",
+			"kcal": "225"
+		},
+		{
+			"name": "Black-eyed peas dry cooked 1 cup",
+			"protein": "13",
+			"fat": "1",
+			"carbo": "35",
+			"kcal": "190"
+		},
+		{
+			"name": "Blue cheese 1 oz",
+			"protein": "6",
+			"fat": "8",
+			"carbo": "1",
+			"kcal": "100"
+		},
+		{
+			"name": "Blue cheese salad dressing 1 tbsp",
+			"protein": "1",
+			"fat": "8",
+			"carbo": "1",
+			"kcal": "75"
+		},
+		{
+			"name": "Blueberries frozen sweetened 1 cup",
+			"protein": "1",
+			"fat": "0",
+			"carbo": "50",
+			"kcal": "185"
+		},
+		{
+			"name": "Blueberries frozen sweetened 10 oz",
+			"protein": "1",
+			"fat": "0",
+			"carbo": "62",
+			"kcal": "230"
+		},
+		{
+			"name": "Blueberries raw 1 cup",
+			"protein": "1",
+			"fat": "1",
+			"carbo": "20",
+			"kcal": "80"
+		},
+		{
+			"name": "Blueberry muffins home recipe 1 muffin",
+			"protein": "3",
+			"fat": "5",
+			"carbo": "20",
+			"kcal": "135"
+		},
+		{
+			"name": "Blueberry muffinsfrom com mix 1 muffin",
+			"protein": "3",
+			"fat": "5",
+			"carbo": "22",
+			"kcal": "140"
+		},
+		{
+			"name": "Blueberry pie 1 pie",
+			"protein": "23",
+			"fat": "102",
+			"carbo": "330",
+			"kcal": "2285"
+		},
+		{
+			"name": "Blueberry pie 1 piece",
+			"protein": "4",
+			"fat": "17",
+			"carbo": "55",
+			"kcal": "380"
+		},
+		{
+			"name": "Bologna 2 slices",
+			"protein": "7",
+			"fat": "16",
+			"carbo": "2",
+			"kcal": "180"
+		},
+		{
+			"name": "Boston brown bread w/whte crnm 1 slice",
+			"protein": "2",
+			"fat": "1",
+			"carbo": "21",
+			"kcal": "95"
+		},
+		{
+			"name": "Boston brown bread w/yllw crnml 1 slice",
+			"protein": "2",
+			"fat": "1",
+			"carbo": "21",
+			"kcal": "95"
+		},
+		{
+			"name": "Bouillon dehydrtd unprepared 1 pkt",
+			"protein": "1",
+			"fat": "1",
+			"carbo": "1",
+			"kcal": "15"
+		},
+		{
+			"name": "Bran muffins from commerl mix 1 muffin",
+			"protein": "3",
+			"fat": "4",
+			"carbo": "24",
+			"kcal": "140"
+		},
+		{
+			"name": "Bran muffins home recipe 1 muffin",
+			"protein": "3",
+			"fat": "6",
+			"carbo": "19",
+			"kcal": "125"
+		},
+		{
+			"name": "Braunschweiger 2 slices",
+			"protein": "8",
+			"fat": "18",
+			"carbo": "2",
+			"kcal": "205"
+		},
+		{
+			"name": "Brazil nuts 1 oz",
+			"protein": "4",
+			"fat": "19",
+			"carbo": "4",
+			"kcal": "185"
+		},
+		{
+			"name": "Bread stuffingfrom mx dry type 1 cup",
+			"protein": "9",
+			"fat": "31",
+			"carbo": "50",
+			"kcal": "500"
+		},
+		{
+			"name": "Bread stuffingfrom mx moist 1 cup",
+			"protein": "9",
+			"fat": "26",
+			"carbo": "40",
+			"kcal": "420"
+		},
+		{
+			"name": "Breadcrumbs dry grated 1 cup",
+			"protein": "13",
+			"fat": "5",
+			"carbo": "73",
+			"kcal": "390"
+		},
+		{
+			"name": "Broccoli frzn cooked draned 1 cup",
+			"protein": "6",
+			"fat": "0",
+			"carbo": "10",
+			"kcal": "50"
+		},
+		{
+			"name": "Broccoli frzn cooked draned 1 piece",
+			"protein": "1",
+			"fat": "0",
+			"carbo": "2",
+			"kcal": "10"
+		},
+		{
+			"name": "Broccoli raw 1 spear",
+			"protein": "4",
+			"fat": "1",
+			"carbo": "8",
+			"kcal": "40"
+		},
+		{
+			"name": "Broccoli raw cooked drained 1 cup",
+			"protein": "5",
+			"fat": "0",
+			"carbo": "9",
+			"kcal": "45"
+		},
+		{
+			"name": "Broccoli raw cooked drained 1 spear",
+			"protein": "5",
+			"fat": "1",
+			"carbo": "10",
+			"kcal": "50"
+		},
+		{
+			"name": "Brown and serve sausage brwnd 1 link",
+			"protein": "2",
+			"fat": "5",
+			"carbo": "0",
+			"kcal": "50"
+		},
+		{
+			"name": "Brown gravy from dry mix 1 cup",
+			"protein": "3",
+			"fat": "2",
+			"carbo": "14",
+			"kcal": "80"
+		},
+		{
+			"name": "Brownies w/ nuts frm home recp 1 browne",
+			"protein": "1",
+			"fat": "6",
+			"carbo": "11",
+			"kcal": "95"
+		},
+		{
+			"name": "Brownies w/ nuts frstng cmmrcl 1 browne",
+			"protein": "1",
+			"fat": "4",
+			"carbo": "16",
+			"kcal": "100"
+		},
+		{
+			"name": "Brussels sprouts frzn cooked 1 cup",
+			"protein": "6",
+			"fat": "1",
+			"carbo": "13",
+			"kcal": "65"
+		},
+		{
+			"name": "Brussels sprouts raw cooked 1 cup",
+			"protein": "4",
+			"fat": "1",
+			"carbo": "13",
+			"kcal": "60"
+		},
+		{
+			"name": "Buckwheat flour light sifted 1 cup",
+			"protein": "6",
+			"fat": "1",
+			"carbo": "78",
+			"kcal": "340"
+		},
+		{
+			"name": "Bulgur uncooked 1 cup",
+			"protein": "19",
+			"fat": "3",
+			"carbo": "129",
+			"kcal": "600"
+		},
+		{
+			"name": "Butter salted 1 pat",
+			"protein": "0",
+			"fat": "4",
+			"carbo": "0",
+			"kcal": "35"
+		},
+		{
+			"name": "Butter salted 1 tbsp",
+			"protein": "0",
+			"fat": "11",
+			"carbo": "0",
+			"kcal": "100"
+		},
+		{
+			"name": "Butter salted 1/2 cup",
+			"protein": "1",
+			"fat": "92",
+			"carbo": "0",
+			"kcal": "810"
+		},
+		{
+			"name": "Butter unsalted 1 pat",
+			"protein": "0",
+			"fat": "4",
+			"carbo": "0",
+			"kcal": "35"
+		},
+		{
+			"name": "Butter unsalted 1 tbsp",
+			"protein": "0",
+			"fat": "11",
+			"carbo": "0",
+			"kcal": "100"
+		},
+		{
+			"name": "Butter unsalted 1/2 cup",
+			"protein": "1",
+			"fat": "92",
+			"carbo": "0",
+			"kcal": "810"
+		},
+		{
+			"name": "Buttermilk dried 1 cup",
+			"protein": "41",
+			"fat": "7",
+			"carbo": "59",
+			"kcal": "465"
+		},
+		{
+			"name": "Buttermilk fluid 1 cup",
+			"protein": "8",
+			"fat": "2",
+			"carbo": "12",
+			"kcal": "100"
+		},
+		{
+			"name": "Cabbage chinese pak-choickd 1 cup",
+			"protein": "3",
+			"fat": "0",
+			"carbo": "3",
+			"kcal": "20"
+		},
+		{
+			"name": "Cabbage chinesepe-tsai raw 1 cup",
+			"protein": "1",
+			"fat": "0",
+			"carbo": "2",
+			"kcal": "10"
+		},
+		{
+			"name": "Cabbage common cooked drned 1 cup",
+			"protein": "1",
+			"fat": "0",
+			"carbo": "7",
+			"kcal": "30"
+		},
+		{
+			"name": "Cabbage common raw 1 cup",
+			"protein": "1",
+			"fat": "0",
+			"carbo": "4",
+			"kcal": "15"
+		},
+		{
+			"name": "Cabbage red raw 1 cup",
+			"protein": "1",
+			"fat": "0",
+			"carbo": "4",
+			"kcal": "20"
+		},
+		{
+			"name": "Cabbage savoy raw 1 cup",
+			"protein": "1",
+			"fat": "0",
+			"carbo": "4",
+			"kcal": "20"
+		},
+		{
+			"name": "Cake or pastry flour sifted 1 cup",
+			"protein": "7",
+			"fat": "1",
+			"carbo": "76",
+			"kcal": "350"
+		},
+		{
+			"name": "Camembert cheese 1 wedge",
+			"protein": "8",
+			"fat": "9",
+			"carbo": "0",
+			"kcal": "115"
+		},
+		{
+			"name": "Cantaloup raw 1/2 meln",
+			"protein": "2",
+			"fat": "1",
+			"carbo": "22",
+			"kcal": "95"
+		},
+		{
+			"name": "Cap'n crunch cereal 1 oz",
+			"protein": "1",
+			"fat": "3",
+			"carbo": "23",
+			"kcal": "120"
+		},
+		{
+			"name": "Caramels plain or chocolate 1 oz",
+			"protein": "1",
+			"fat": "3",
+			"carbo": "22",
+			"kcal": "115"
+		},
+		{
+			"name": "Carob flour 1 cup",
+			"protein": "6",
+			"fat": "0",
+			"carbo": "126",
+			"kcal": "255"
+		},
+		{
+			"name": "Carrot cake cremchese frst rec 1 cake",
+			"protein": "63",
+			"fat": "328",
+			"carbo": "775",
+			"kcal": "6175"
+		},
+		{
+			"name": "Carrot cake cremchese frst rec 1 piece",
+			"protein": "4",
+			"fat": "21",
+			"carbo": "48",
+			"kcal": "385"
+		},
+		{
+			"name": "Carrots canned drn w/ salt 1 cup",
+			"protein": "1",
+			"fat": "0",
+			"carbo": "8",
+			"kcal": "35"
+		},
+		{
+			"name": "Carrots canned drnd w/o salt 1 cup",
+			"protein": "1",
+			"fat": "0",
+			"carbo": "8",
+			"kcal": "35"
+		},
+		{
+			"name": "Carrots cooked from frozen 1 cup",
+			"protein": "2",
+			"fat": "0",
+			"carbo": "12",
+			"kcal": "55"
+		},
+		{
+			"name": "Carrots cooked from raw 1 cup",
+			"protein": "2",
+			"fat": "0",
+			"carbo": "16",
+			"kcal": "70"
+		},
+		{
+			"name": "Carrots raw grated 1 cup",
+			"protein": "1",
+			"fat": "0",
+			"carbo": "11",
+			"kcal": "45"
+		},
+		{
+			"name": "Carrots raw whole 1 carrot",
+			"protein": "1",
+			"fat": "0",
+			"carbo": "7",
+			"kcal": "30"
+		},
+		{
+			"name": "Cashew nuts dry roastd salted 1 oz",
+			"protein": "4",
+			"fat": "13",
+			"carbo": "9",
+			"kcal": "165"
+		},
+		{
+			"name": "Cashew nuts dry roastd unsalt 1 cup",
+			"protein": "21",
+			"fat": "63",
+			"carbo": "45",
+			"kcal": "785"
+		},
+		{
+			"name": "Cashew nuts dry roastd unsalt 1 oz",
+			"protein": "4",
+			"fat": "13",
+			"carbo": "9",
+			"kcal": "165"
+		},
+		{
+			"name": "Cashew nuts dry roasted saltd 1 cup",
+			"protein": "21",
+			"fat": "63",
+			"carbo": "45",
+			"kcal": "785"
+		},
+		{
+			"name": "Cashew nuts oil roastd salted 1 cup",
+			"protein": "21",
+			"fat": "63",
+			"carbo": "37",
+			"kcal": "750"
+		},
+		{
+			"name": "Cashew nuts oil roastd salted 1 oz",
+			"protein": "5",
+			"fat": "14",
+			"carbo": "8",
+			"kcal": "165"
+		},
+		{
+			"name": "Cashew nuts oil roastd unsalt 1 cup",
+			"protein": "21",
+			"fat": "63",
+			"carbo": "37",
+			"kcal": "750"
+		},
+		{
+			"name": "Cashew nuts oil roastd unsalt 1 oz",
+			"protein": "5",
+			"fat": "14",
+			"carbo": "8",
+			"kcal": "165"
+		},
+		{
+			"name": "Catsup 1 cup",
+			"protein": "5",
+			"fat": "1",
+			"carbo": "69",
+			"kcal": "290"
+		},
+		{
+			"name": "Catsup 1 tbsp",
+			"protein": "0",
+			"fat": "0",
+			"carbo": "4",
+			"kcal": "15"
+		},
+		{
+			"name": "Cauliflower cooked from frozn 1 cup",
+			"protein": "3",
+			"fat": "0",
+			"carbo": "7",
+			"kcal": "35"
+		},
+		{
+			"name": "Cauliflower cooked from raw 1 cup",
+			"protein": "2",
+			"fat": "0",
+			"carbo": "6",
+			"kcal": "30"
+		},
+		{
+			"name": "Cauliflower raw 1 cup",
+			"protein": "2",
+			"fat": "0",
+			"carbo": "5",
+			"kcal": "25"
+		},
+		{
+			"name": "Celery seed 1 tsp",
+			"protein": "0",
+			"fat": "1",
+			"carbo": "1",
+			"kcal": "10"
+		},
+		{
+			"name": "Celery pascal type raw piece 1 cup",
+			"protein": "1",
+			"fat": "0",
+			"carbo": "4",
+			"kcal": "20"
+		},
+		{
+			"name": "Celery pascal type raw stalk 1 stalk",
+			"protein": "0",
+			"fat": "0",
+			"carbo": "1",
+			"kcal": "5"
+		},
+		{
+			"name": "Cheddar cheese 1 cu in",
+			"protein": "4",
+			"fat": "6",
+			"carbo": "0",
+			"kcal": "70"
+		},
+		{
+			"name": "Cheddar cheese 1 oz",
+			"protein": "7",
+			"fat": "9",
+			"carbo": "0",
+			"kcal": "115"
+		},
+		{
+			"name": "Chedddar cheese shredded 1 cup",
+			"protein": "28",
+			"fat": "37",
+			"carbo": "1",
+			"kcal": "455"
+		},
+		{
+			"name": "Cheerios cereal 1 oz",
+			"protein": "4",
+			"fat": "2",
+			"carbo": "20",
+			"kcal": "110"
+		},
+		{
+			"name": "Cheese crackers plain 10 crack",
+			"protein": "1",
+			"fat": "3",
+			"carbo": "6",
+			"kcal": "50"
+		},
+		{
+			"name": "Cheese crackers sandwch peant 1 sandwh",
+			"protein": "1",
+			"fat": "2",
+			"carbo": "5",
+			"kcal": "40"
+		},
+		{
+			"name": "Cheese sauce w/ milk frm mix 1 cup",
+			"protein": "16",
+			"fat": "17",
+			"carbo": "23",
+			"kcal": "305"
+		},
+		{
+			"name": "Cheeseburger 4 oz patty 1 sandwh",
+			"protein": "30",
+			"fat": "31",
+			"carbo": "40",
+			"kcal": "525"
+		},
+		{
+			"name": "Cheeseburger regular 1 sandwh",
+			"protein": "15",
+			"fat": "15",
+			"carbo": "28",
+			"kcal": "300"
+		},
+		{
+			"name": "Cheesecake 1 cake",
+			"protein": "60",
+			"fat": "213",
+			"carbo": "317",
+			"kcal": "3350"
+		},
+		{
+			"name": "Cheesecake 1 piece",
+			"protein": "5",
+			"fat": "18",
+			"carbo": "26",
+			"kcal": "280"
+		},
+		{
+			"name": "Cherries sourred cannd water 1 cup",
+			"protein": "2",
+			"fat": "0",
+			"carbo": "22",
+			"kcal": "90"
+		},
+		{
+			"name": "Cherries sweet raw 10 chery",
+			"protein": "1",
+			"fat": "1",
+			"carbo": "11",
+			"kcal": "50"
+		},
+		{
+			"name": "Cherry pie 1 pie",
+			"protein": "25",
+			"fat": "107",
+			"carbo": "363",
+			"kcal": "2465"
+		},
+		{
+			"name": "Cherry pie 1 piece",
+			"protein": "4",
+			"fat": "18",
+			"carbo": "61",
+			"kcal": "410"
+		},
+		{
+			"name": "Chestnuts european roasted 1 cup",
+			"protein": "5",
+			"fat": "3",
+			"carbo": "76",
+			"kcal": "350"
+		},
+		{
+			"name": "Chicken a la king home recipe 1 cup",
+			"protein": "27",
+			"fat": "34",
+			"carbo": "12",
+			"kcal": "470"
+		},
+		{
+			"name": "Chicken and noodles home recp 1 cup",
+			"protein": "22",
+			"fat": "18",
+			"carbo": "26",
+			"kcal": "365"
+		},
+		{
+			"name": "Chicken chow mein canned 1 cup",
+			"protein": "7",
+			"fat": "0",
+			"carbo": "18",
+			"kcal": "95"
+		},
+		{
+			"name": "Chicken chow mein home recipe 1 cup",
+			"protein": "31",
+			"fat": "10",
+			"carbo": "10",
+			"kcal": "255"
+		},
+		{
+			"name": "Chicken frankfurter  1 frank",
+			"protein": "6",
+			"fat": "9",
+			"carbo": "3",
+			"kcal": "115"
+		},
+		{
+			"name": "Chicken gravy from dry mix 1 cup",
+			"protein": "3",
+			"fat": "2",
+			"carbo": "14",
+			"kcal": "85"
+		},
+		{
+			"name": "Chicken gravy canned 1 cup",
+			"protein": "5",
+			"fat": "14",
+			"carbo": "13",
+			"kcal": "190"
+		},
+		{
+			"name": "Chicken liver cooked 1 liver",
+			"protein": "5",
+			"fat": "1",
+			"carbo": "0",
+			"kcal": "30"
+		},
+		{
+			"name": "Chicken noodle soup canned 1 cup",
+			"protein": "4",
+			"fat": "2",
+			"carbo": "9",
+			"kcal": "75"
+		},
+		{
+			"name": "Chicken noodle soup dehyd prp d 1 pkt",
+			"protein": "2",
+			"fat": "1",
+			"carbo": "6",
+			"kcal": "40"
+		},
+		{
+			"name": "Chicken potpie home recipe 1 piece",
+			"protein": "23",
+			"fat": "31",
+			"carbo": "42",
+			"kcal": "545"
+		},
+		{
+			"name": "Chicken rice soup canned 1 cup",
+			"protein": "4",
+			"fat": "2",
+			"carbo": "7",
+			"kcal": "60"
+		},
+		{
+			"name": "Chicken roll light 2 slices",
+			"protein": "11",
+			"fat": "4",
+			"carbo": "1",
+			"kcal": "90"
+		},
+		{
+			"name": "Chicken canned boneless 5 oz",
+			"protein": "31",
+			"fat": "11",
+			"carbo": "0",
+			"kcal": "235"
+		},
+		{
+			"name": "Chicken fried batter breast 4.9 oz",
+			"protein": "35",
+			"fat": "18",
+			"carbo": "13",
+			"kcal": "365"
+		},
+		{
+			"name": "Chicken fried batter drmstck 2.5 oz",
+			"protein": "16",
+			"fat": "11",
+			"carbo": "6",
+			"kcal": "195"
+		},
+		{
+			"name": "Chicken fried flour breast 3.5 oz",
+			"protein": "31",
+			"fat": "9",
+			"carbo": "2",
+			"kcal": "220"
+		},
+		{
+			"name": "Chicken fried flour drmstck 1.7 oz",
+			"protein": "13",
+			"fat": "7",
+			"carbo": "1",
+			"kcal": "120"
+		},
+		{
+			"name": "Chicken roasted breast 3.0 oz",
+			"protein": "27",
+			"fat": "3",
+			"carbo": "0",
+			"kcal": "140"
+		},
+		{
+			"name": "Chicken roasted drumstick 1.6 oz",
+			"protein": "12",
+			"fat": "2",
+			"carbo": "0",
+			"kcal": "75"
+		},
+		{
+			"name": "Chicken stewed light + dark 1 cup",
+			"protein": "38",
+			"fat": "9",
+			"carbo": "0",
+			"kcal": "250"
+		},
+		{
+			"name": "Chickpeas cooked drained 1 cup",
+			"protein": "15",
+			"fat": "4",
+			"carbo": "45",
+			"kcal": "270"
+		},
+		{
+			"name": "Chili con carne w/ beans cnnd 1 cup",
+			"protein": "19",
+			"fat": "16",
+			"carbo": "31",
+			"kcal": "340"
+		},
+		{
+			"name": "Chili powder 1 tsp",
+			"protein": "0",
+			"fat": "0",
+			"carbo": "1",
+			"kcal": "10"
+		},
+		{
+			"name": "Chocolate chip cookies commrcl 4 cookie",
+			"protein": "2",
+			"fat": "9",
+			"carbo": "28",
+			"kcal": "180"
+		},
+		{
+			"name": "Chocolate chip cookies home rcp 4 cookie",
+			"protein": "2",
+			"fat": "11",
+			"carbo": "26",
+			"kcal": "185"
+		},
+		{
+			"name": "Chocolate chip cookies refrig 4 cookie",
+			"protein": "2",
+			"fat": "11",
+			"carbo": "32",
+			"kcal": "225"
+		},
+		{
+			"name": "Chocolate milk lowfat 1% 1 cup",
+			"protein": "8",
+			"fat": "3",
+			"carbo": "26",
+			"kcal": "160"
+		},
+		{
+			"name": "Chocolate milk lowfat 2% 1 cup",
+			"protein": "8",
+			"fat": "5",
+			"carbo": "26",
+			"kcal": "180"
+		},
+		{
+			"name": "Chocolate milk regular 1 cup",
+			"protein": "8",
+			"fat": "8",
+			"carbo": "26",
+			"kcal": "210"
+		},
+		{
+			"name": "Chocolate bitter ot baking 1 oz",
+			"protein": "3",
+			"fat": "15",
+			"carbo": "8",
+			"kcal": "145"
+		},
+		{
+			"name": "Chop suey w/ beef + pork hmrcp 1 cup",
+			"protein": "26",
+			"fat": "17",
+			"carbo": "13",
+			"kcal": "300"
+		},
+		{
+			"name": "Cinnamon 1 tsp",
+			"protein": "0",
+			"fat": "0",
+			"carbo": "2",
+			"kcal": "5"
+		},
+		{
+			"name": "Clam chowder manhattan cannd 1 cup",
+			"protein": "4",
+			"fat": "2",
+			"carbo": "12",
+			"kcal": "80"
+		},
+		{
+			"name": "Clam chowder new eng w/ milk 1 cup",
+			"protein": "9",
+			"fat": "7",
+			"carbo": "17",
+			"kcal": "165"
+		},
+		{
+			"name": "Clams canned drained 3 oz",
+			"protein": "13",
+			"fat": "2",
+			"carbo": "2",
+			"kcal": "85"
+		},
+		{
+			"name": "Clams raw 3 oz",
+			"protein": "11",
+			"fat": "1",
+			"carbo": "2",
+			"kcal": "65"
+		},
+		{
+			"name": "Club soda 12 fl oz",
+			"protein": "0",
+			"fat": "0",
+			"carbo": "0",
+			"kcal": "0"
+		},
+		{
+			"name": "Coca pwdr w/o nofat dry mlkprd 1 servng",
+			"protein": "9",
+			"fat": "9",
+			"carbo": "30",
+			"kcal": "225"
+		},
+		{
+			"name": "Coca pwdr w/o nonfat dry milk 3/4 oz",
+			"protein": "1",
+			"fat": "1",
+			"carbo": "19",
+			"kcal": "75"
+		},
+		{
+			"name": "Cocoa pwdr w/ nofat drmlkprpd 1 servng",
+			"protein": "3",
+			"fat": "1",
+			"carbo": "22",
+			"kcal": "100"
+		},
+		{
+			"name": "Cocoa pwdr with nonfat drymilk 1 oz",
+			"protein": "3",
+			"fat": "1",
+			"carbo": "22",
+			"kcal": "100"
+		},
+		{
+			"name": "Coconut dried sweetnd shredd 1 cup",
+			"protein": "3",
+			"fat": "33",
+			"carbo": "44",
+			"kcal": "470"
+		},
+		{
+			"name": "Coconut raw piece 1 piece",
+			"protein": "1",
+			"fat": "15",
+			"carbo": "7",
+			"kcal": "160"
+		},
+		{
+			"name": "Coconut raw shredded  1 cup",
+			"protein": "3",
+			"fat": "27",
+			"carbo": "12",
+			"kcal": "285"
+		},
+		{
+			"name": "Coffee brewed 6 fl oz",
+			"protein": "0",
+			"fat": "0",
+			"carbo": "0",
+			"kcal": "0"
+		},
+		{
+			"name": "Coffee instant prepared 6 fl oz",
+			"protein": "0",
+			"fat": "0",
+			"carbo": "1",
+			"kcal": "0"
+		},
+		{
+			"name": "Coffeecake crumb from mix 1 cake",
+			"protein": "27",
+			"fat": "41",
+			"carbo": "225",
+			"kcal": "1385"
+		},
+		{
+			"name": "Coffeecake crumb from mix 1 piece",
+			"protein": "5",
+			"fat": "7",
+			"carbo": "38",
+			"kcal": "230"
+		},
+		{
+			"name": "Cola diet aspartame only 12 fl oz",
+			"protein": "0",
+			"fat": "0",
+			"carbo": "0",
+			"kcal": "0"
+		},
+		{
+			"name": "Cola diet asprtame + sacchrn 12 fl oz",
+			"protein": "0",
+			"fat": "0",
+			"carbo": "0",
+			"kcal": "0"
+		},
+		{
+			"name": "Cola diet saccharin only 12 fl oz",
+			"protein": "0",
+			"fat": "0",
+			"carbo": "0",
+			"kcal": "0"
+		},
+		{
+			"name": "Cola regular 12 fl oz",
+			"protein": "0",
+			"fat": "0",
+			"carbo": "41",
+			"kcal": "160"
+		},
+		{
+			"name": "Collards cooked from frozen 1 cup",
+			"protein": "5",
+			"fat": "1",
+			"carbo": "12",
+			"kcal": "60"
+		},
+		{
+			"name": "Collards cooked from raw 1 cup",
+			"protein": "2",
+			"fat": "0",
+			"carbo": "5",
+			"kcal": "25"
+		},
+		{
+			"name": "Cooked salad drssing home rcp 1 tbsp",
+			"protein": "1",
+			"fat": "2",
+			"carbo": "2",
+			"kcal": "25"
+		},
+		{
+			"name": "Corn chips 1 oz",
+			"protein": "2",
+			"fat": "9",
+			"carbo": "16",
+			"kcal": "155"
+		},
+		{
+			"name": "Corn flakes kellogg's 1 oz",
+			"protein": "2",
+			"fat": "0",
+			"carbo": "24",
+			"kcal": "110"
+		},
+		{
+			"name": "Corn flakes toasties 1 oz",
+			"protein": "2",
+			"fat": "0",
+			"carbo": "24",
+			"kcal": "110"
+		},
+		{
+			"name": "Corn grits cooked instant 1 pkt",
+			"protein": "2",
+			"fat": "0",
+			"carbo": "18",
+			"kcal": "80"
+		},
+		{
+			"name": "Corn grits ckdregwhte no salt 1 cup",
+			"protein": "3",
+			"fat": "0",
+			"carbo": "31",
+			"kcal": "145"
+		},
+		{
+			"name": "Corn grits ckdregwhte w/salt 1 cup",
+			"protein": "3",
+			"fat": "0",
+			"carbo": "31",
+			"kcal": "145"
+		},
+		{
+			"name": "Corn grits ckdregyllw no salt 1 cup",
+			"protein": "3",
+			"fat": "0",
+			"carbo": "31",
+			"kcal": "145"
+		},
+		{
+			"name": "Corn grits ckdregyllw w/salt 1 cup",
+			"protein": "3",
+			"fat": "0",
+			"carbo": "31",
+			"kcal": "145"
+		},
+		{
+			"name": "Corn muffins from commerl mix 1 muffin",
+			"protein": "3",
+			"fat": "6",
+			"carbo": "22",
+			"kcal": "145"
+		},
+		{
+			"name": "Corn muffins home recipe 1 muffin",
+			"protein": "3",
+			"fat": "5",
+			"carbo": "21",
+			"kcal": "145"
+		},
+		{
+			"name": "Corn oil 1 cup",
+			"protein": "0",
+			"fat": "218",
+			"carbo": "0",
+			"kcal": "1925"
+		},
+		{
+			"name": "Corn oil 1 tbsp",
+			"protein": "0",
+			"fat": "14",
+			"carbo": "0",
+			"kcal": "125"
+		},
+		{
+			"name": "Corn cnndcrmstl whit no sal1 cup",
+			"protein": "4",
+			"fat": "1",
+			"carbo": "46",
+			"kcal": "185"
+		},
+		{
+			"name": "Corn cnndcrm stl whit w/salt 1 cup",
+			"protein": "4",
+			"fat": "1",
+			"carbo": "46",
+			"kcal": "185"
+		},
+		{
+			"name": "Corn cnndcrm stlyllw no sal 1 cup",
+			"protein": "4",
+			"fat": "1",
+			"carbo": "46",
+			"kcal": "185"
+		},
+		{
+			"name": "Corn cnndcrm stlyllw w/salt 1 cup",
+			"protein": "4",
+			"fat": "1",
+			"carbo": "46",
+			"kcal": "185"
+		},
+		{
+			"name": "Corn cooked frm frozn white 1 cup",
+			"protein": "5",
+			"fat": "0",
+			"carbo": "34",
+			"kcal": "135"
+		},
+		{
+			"name": "Corn cooked frm frozn white 1 ear",
+			"protein": "2",
+			"fat": "0",
+			"carbo": "14",
+			"kcal": "60"
+		},
+		{
+			"name": "Corn cooked frm frozn yellow 1 cup",
+			"protein": "5",
+			"fat": "0",
+			"carbo": "34",
+			"kcal": "135"
+		},
+		{
+			"name": "Corn cooked frm frozn yellow 1 ear",
+			"protein": "2",
+			"fat": "0",
+			"carbo": "14",
+			"kcal": "60"
+		},
+		{
+			"name": "Corn cooked from raw white 1 ear",
+			"protein": "3",
+			"fat": "1",
+			"carbo": "19",
+			"kcal": "85"
+		},
+		{
+			"name": "Corn cooked from raw yellow 1 ear",
+			"protein": "3",
+			"fat": "1",
+			"carbo": "19",
+			"kcal": "85"
+		},
+		{
+			"name": "Corn cnnd whl krnlwhte no sal 1 cup",
+			"protein": "5",
+			"fat": "1",
+			"carbo": "41",
+			"kcal": "165"
+		},
+		{
+			"name": "Corn cnnd whl krnlwhte w/salt 1 cup",
+			"protein": "5",
+			"fat": "1",
+			"carbo": "41",
+			"kcal": "165"
+		},
+		{
+			"name": "Corn cnnd whl krnlyllw no sal 1 cup",
+			"protein": "5",
+			"fat": "1",
+			"carbo": "41",
+			"kcal": "165"
+		},
+		{
+			"name": "Corn cnnd whl krnlyllw w/salt1 cup",
+			"protein": "5",
+			"fat": "1",
+			"carbo": "41",
+			"kcal": "165"
+		},
+		{
+			"name": "Corn meal bolted dry form 1 cup",
+			"protein": "11",
+			"fat": "4",
+			"carbo": "91",
+			"kcal": "440"
+		},
+		{
+			"name": "Corn meal degermeden rched cook 1 cup",
+			"protein": "3",
+			"fat": "0",
+			"carbo": "26",
+			"kcal": "120"
+		},
+		{
+			"name": "Corn meal degermeden riched dry 1 cup",
+			"protein": "11",
+			"fat": "2",
+			"carbo": "108",
+			"kcal": "500"
+		},
+		{
+			"name": "Corn meal whole-grndun bolt dry 1 cup",
+			"protein": "11",
+			"fat": "5",
+			"carbo": "90",
+			"kcal": "435"
+		},
+		{
+			"name": "Cottage cheese cremdlrge curd 1 cup",
+			"protein": "28",
+			"fat": "10",
+			"carbo": "6",
+			"kcal": "235"
+		},
+		{
+			"name": "Cottage cheese cremd smll curd 1 cup",
+			"protein": "26",
+			"fat": "9",
+			"carbo": "6",
+			"kcal": "215"
+		},
+		{
+			"name": "Cottage cheese cremd w/fruit 1 cup",
+			"protein": "22",
+			"fat": "8",
+			"carbo": "30",
+			"kcal": "280"
+		},
+		{
+			"name": "Cottage cheese lowfat 2% 1 cup",
+			"protein": "31",
+			"fat": "4",
+			"carbo": "8",
+			"kcal": "205"
+		},
+		{
+			"name": "Cottage cheese uncreamed 1 cup",
+			"protein": "25",
+			"fat": "1",
+			"carbo": "3",
+			"kcal": "125"
+		},
+		{
+			"name": "Cr of chicken soup w/ h20 cnnd 1 cup",
+			"protein": "3",
+			"fat": "7",
+			"carbo": "9",
+			"kcal": "115"
+		},
+		{
+			"name": "Cr of chicken soup w/ mlkcnnd 1 cup",
+			"protein": "7",
+			"fat": "11",
+			"carbo": "15",
+			"kcal": "190"
+		},
+		{
+			"name": "Cr of mushrom soup w/ h 2 ocnnd 1 cup",
+			"protein": "2",
+			"fat": "9",
+			"carbo": "9",
+			"kcal": "130"
+		},
+		{
+			"name": "Cr of mushrom soup w/ mlkcnnd 1 cup",
+			"protein": "6",
+			"fat": "14",
+			"carbo": "15",
+			"kcal": "205"
+		},
+		{
+			"name": "Crabmeat canned 1 cup",
+			"protein": "23",
+			"fat": "3",
+			"carbo": "1",
+			"kcal": "135"
+		},
+		{
+			"name": "Cracked-wheat bread 1 loaf",
+			"protein": "42",
+			"fat": "16",
+			"carbo": "227",
+			"kcal": "1190"
+		},
+		{
+			"name": "Cracked-wheat bread 1 slice",
+			"protein": "2",
+			"fat": "1",
+			"carbo": "12",
+			"kcal": "65"
+		},
+		{
+			"name": "Cracked-wheat bread toasted 1 slice",
+			"protein": "2",
+			"fat": "1",
+			"carbo": "12",
+			"kcal": "65"
+		},
+		{
+			"name": "Cranberry juice cocktal w/vitc 1 cup",
+			"protein": "0",
+			"fat": "0",
+			"carbo": "38",
+			"kcal": "145"
+		},
+		{
+			"name": "Cranberry sauce canned swtnd 1 cup",
+			"protein": "1",
+			"fat": "0",
+			"carbo": "108",
+			"kcal": "420"
+		},
+		{
+			"name": "Cream cheese 1 oz",
+			"protein": "2",
+			"fat": "10",
+			"carbo": "1",
+			"kcal": "100"
+		},
+		{
+			"name": "Cream of wheatckd mix n eat 1 pkt",
+			"protein": "3",
+			"fat": "0",
+			"carbo": "21",
+			"kcal": "100"
+		},
+		{
+			"name": "Creme pie 1 pie",
+			"protein": "20",
+			"fat": "139",
+			"carbo": "351",
+			"kcal": "2710"
+		},
+		{
+			"name": "Creme pie 1 piece",
+			"protein": "3",
+			"fat": "23",
+			"carbo": "59",
+			"kcal": "455"
+		},
+		{
+			"name": "Crm wheatckd quick no salt 1 cup",
+			"protein": "4",
+			"fat": "0",
+			"carbo": "29",
+			"kcal": "140"
+		},
+		{
+			"name": "Crm wheat ckd quick w/ salt 1 cup",
+			"protein": "4",
+			"fat": "0",
+			"carbo": "29",
+			"kcal": "140"
+		},
+		{
+			"name": "Crm wheat ckdreg instno salt 1 cup",
+			"protein": "4",
+			"fat": "0",
+			"carbo": "29",
+			"kcal": "140"
+		},
+		{
+			"name": "Crm wheat ckdreg inst w/salt 1 cup",
+			"protein": "4",
+			"fat": "0",
+			"carbo": "29",
+			"kcal": "140"
+		},
+		{
+			"name": "Croissants 1 crosst",
+			"protein": "5",
+			"fat": "12",
+			"carbo": "27",
+			"kcal": "235"
+		},
+		{
+			"name": "Cucumber  w/ peel 6 slices",
+			"protein": "0",
+			"fat": "0",
+			"carbo": "1",
+			"kcal": "5"
+		},
+		{
+			"name": "Curry powder 1 tsp",
+			"protein": "0",
+			"fat": "0",
+			"carbo": "1",
+			"kcal": "5"
+		},
+		{
+			"name": "Custard pie 1 pie",
+			"protein": "56",
+			"fat": "101",
+			"carbo": "213",
+			"kcal": "1985"
+		},
+		{
+			"name": "Custard pie 1 piece",
+			"protein": "9",
+			"fat": "17",
+			"carbo": "36",
+			"kcal": "330"
+		},
+		{
+			"name": "Custard baked 1 cup",
+			"protein": "14",
+			"fat": "15",
+			"carbo": "29",
+			"kcal": "305"
+		},
+		{
+			"name": "Dandelion greens cooked drnd 1 cup",
+			"protein": "2",
+			"fat": "1",
+			"carbo": "7",
+			"kcal": "35"
+		},
+		{
+			"name": "Danish pastry fruit 1 pastry",
+			"protein": "4",
+			"fat": "13",
+			"carbo": "28",
+			"kcal": "235"
+		},
+		{
+			"name": "Danish pastry plain no nuts 1 oz",
+			"protein": "2",
+			"fat": "6",
+			"carbo": "13",
+			"kcal": "110"
+		},
+		{
+			"name": "Danish pastry plain no nuts 1 pastry",
+			"protein": "4",
+			"fat": "12",
+			"carbo": "26",
+			"kcal": "220"
+		},
+		{
+			"name": "Danish pastry plain no nuts 1 ring",
+			"protein": "21",
+			"fat": "71",
+			"carbo": "152",
+			"kcal": "1305"
+		},
+		{
+			"name": "Dates 10 dates",
+			"protein": "2",
+			"fat": "0",
+			"carbo": "61",
+			"kcal": "230"
+		},
+		{
+			"name": "Dates chopped 1 cup",
+			"protein": "4",
+			"fat": "1",
+			"carbo": "131",
+			"kcal": "490"
+		},
+		{
+			"name": "Devil's food cake chocfrstf mx 1 cake",
+			"protein": "49",
+			"fat": "136",
+			"carbo": "645",
+			"kcal": "3755"
+		},
+		{
+			"name": "Devil's food cake chocfrstf mx 1 cupcak",
+			"protein": "2",
+			"fat": "4",
+			"carbo": "20",
+			"kcal": "120"
+		},
+		{
+			"name": "Devil's food cake chocfrstf mx 1 piece",
+			"protein": "3",
+			"fat": "8",
+			"carbo": "40",
+			"kcal": "235"
+		},
+		{
+			"name": "Doughnuts cake type plain 1 donut",
+			"protein": "3",
+			"fat": "12",
+			"carbo": "24",
+			"kcal": "210"
+		},
+		{
+			"name": "Doughnuts yeast-leavendglzed 1 donut",
+			"protein": "4",
+			"fat": "13",
+			"carbo": "26",
+			"kcal": "235"
+		},
+		{
+			"name": "Duck roasted flesh only 1/2 duck",
+			"protein": "52",
+			"fat": "25",
+			"carbo": "0",
+			"kcal": "445"
+		},
+		{
+			"name": "Eggnog 1 cup",
+			"protein": "10",
+			"fat": "19",
+			"carbo": "34",
+			"kcal": "340"
+		},
+		{
+			"name": "Eggplant cooked steamed 1 cup",
+			"protein": "1",
+			"fat": "0",
+			"carbo": "6",
+			"kcal": "25"
+		},
+		{
+			"name": "Eggs cooked fried 1 egg",
+			"protein": "6",
+			"fat": "7",
+			"carbo": "1",
+			"kcal": "90"
+		},
+		{
+			"name": "Eggs cooked hard-cooked 1 egg",
+			"protein": "6",
+			"fat": "5",
+			"carbo": "1",
+			"kcal": "75"
+		},
+		{
+			"name": "Eggs cooked poached 1 egg",
+			"protein": "6",
+			"fat": "5",
+			"carbo": "1",
+			"kcal": "75"
+		},
+		{
+			"name": "Eggs cooked scrambled/omelet 1 egg",
+			"protein": "7",
+			"fat": "7",
+			"carbo": "1",
+			"kcal": "100"
+		},
+		{
+			"name": "Eggs raw white 1 white",
+			"protein": "4",
+			"fat": "0",
+			"carbo": "0",
+			"kcal": "15"
+		},
+		{
+			"name": "Eggs raw whole 1 egg",
+			"protein": "6",
+			"fat": "5",
+			"carbo": "1",
+			"kcal": "75"
+		},
+		{
+			"name": "Eggs raw yolk 1 yolk",
+			"protein": "3",
+			"fat": "5",
+			"carbo": "0",
+			"kcal": "60"
+		},
+		{
+			"name": "Enchilada 1 enchld",
+			"protein": "20",
+			"fat": "16",
+			"carbo": "24",
+			"kcal": "235"
+		},
+		{
+			"name": "Endive curly raw 1 cup",
+			"protein": "1",
+			"fat": "0",
+			"carbo": "2",
+			"kcal": "10"
+		},
+		{
+			"name": "Eng muffin egg cheese bacon 1 sandwh",
+			"protein": "18",
+			"fat": "18",
+			"carbo": "31",
+			"kcal": "360"
+		},
+		{
+			"name": "English muffins plain 1 muffin",
+			"protein": "5",
+			"fat": "1",
+			"carbo": "27",
+			"kcal": "140"
+		},
+		{
+			"name": "English muffins plain toastd1 muffin",
+			"protein": "5",
+			"fat": "1",
+			"carbo": "27",
+			"kcal": "140"
+		},
+		{
+			"name": "Evaporated milk skim canned 1 cup",
+			"protein": "19",
+			"fat": "1",
+			"carbo": "29",
+			"kcal": "200"
+		},
+		{
+			"name": "Evaporated milk whole canned 1 cup",
+			"protein": "17",
+			"fat": "19",
+			"carbo": "25",
+			"kcal": "340"
+		},
+		{
+			"name": "Fats cooking/vegetbl shorteng 1 cup",
+			"protein": "0",
+			"fat": "205",
+			"carbo": "0",
+			"kcal": "1810"
+		},
+		{
+			"name": "Fats cooking/vegetbl shorteng 1 tbsp",
+			"protein": "0",
+			"fat": "13",
+			"carbo": "0",
+			"kcal": "115"
+		},
+		{
+			"name": "Feta cheese 1 oz",
+			"protein": "4",
+			"fat": "6",
+			"carbo": "1",
+			"kcal": "75"
+		},
+		{
+			"name": "Fig bars 4 cookie",
+			"protein": "2",
+			"fat": "4",
+			"carbo": "42",
+			"kcal": "210"
+		},
+		{
+			"name": "Figs dried 10 figs",
+			"protein": "6",
+			"fat": "2",
+			"carbo": "122",
+			"kcal": "475"
+		},
+		{
+			"name": "Filberts (hazelnuts) chopped  1 cup",
+			"protein": "15",
+			"fat": "72",
+			"carbo": "18",
+			"kcal": "725"
+		},
+		{
+			"name": "Filberts (hazelnuts) chopped 1 oz",
+			"protein": "4",
+			"fat": "18",
+			"carbo": "4",
+			"kcal": "180"
+		},
+		{
+			"name": "Fish sandwich lge w/o cheese 1 sandwh",
+			"protein": "18",
+			"fat": "27",
+			"carbo": "41",
+			"kcal": "470"
+		},
+		{
+			"name": "Fish sandwich reg w/ cheese 1 sandwh",
+			"protein": "16",
+			"fat": "23",
+			"carbo": "39",
+			"kcal": "420"
+		},
+		{
+			"name": "Fish sticks frozen reheated 1 stick",
+			"protein": "6",
+			"fat": "3",
+			"carbo": "4",
+			"kcal": "70"
+		},
+		{
+			"name": "Flounder or sole baked buttr 3 oz",
+			"protein": "16",
+			"fat": "6",
+			"carbo": "0",
+			"kcal": "120"
+		},
+		{
+			"name": "Flounder or sole baked margrn 3 oz",
+			"protein": "16",
+			"fat": "6",
+			"carbo": "0",
+			"kcal": "120"
+		},
+		{
+			"name": "Flounder or sole baked w/ofat 3 oz",
+			"protein": "17",
+			"fat": "1",
+			"carbo": "0",
+			"kcal": "80"
+		},
+		{
+			"name": "Fondant uncoated 1 oz",
+			"protein": "0",
+			"fat": "0",
+			"carbo": "27",
+			"kcal": "105"
+		},
+		{
+			"name": "Frankfurter cooked 1 frank",
+			"protein": "5",
+			"fat": "13",
+			"carbo": "1",
+			"kcal": "145"
+		},
+		{
+			"name": "French bread 1 slice",
+			"protein": "3",
+			"fat": "1",
+			"carbo": "18",
+			"kcal": "100"
+		},
+		{
+			"name": "French or vienna bread 1 loaf",
+			"protein": "43",
+			"fat": "18",
+			"carbo": "230",
+			"kcal": "1270"
+		},
+		{
+			"name": "French salad dressing localor 1 tbsp",
+			"protein": "0",
+			"fat": "2",
+			"carbo": "2",
+			"kcal": "25"
+		},
+		{
+			"name": "French salad dressing regular 1 tbsp",
+			"protein": "0",
+			"fat": "9",
+			"carbo": "1",
+			"kcal": "85"
+		},
+		{
+			"name": "French toast home recipe 1 slice",
+			"protein": "6",
+			"fat": "7",
+			"carbo": "17",
+			"kcal": "155"
+		},
+		{
+			"name": "Fried pie apple 1 pie",
+			"protein": "2",
+			"fat": "14",
+			"carbo": "31",
+			"kcal": "255"
+		},
+		{
+			"name": "Fried pie cherry 1 pie",
+			"protein": "2",
+			"fat": "14",
+			"carbo": "32",
+			"kcal": "250"
+		},
+		{
+			"name": "Froot loops cereal 1 oz",
+			"protein": "2",
+			"fat": "1",
+			"carbo": "25",
+			"kcal": "110"
+		},
+		{
+			"name": "Fruit cocktail cnnd heavy syrup1 cup",
+			"protein": "1",
+			"fat": "0",
+			"carbo": "48",
+			"kcal": "185"
+		},
+		{
+			"name": "Fruit cocktail cnndjuice pack 1 cup",
+			"protein": "1",
+			"fat": "0",
+			"carbo": "29",
+			"kcal": "115"
+		},
+		{
+			"name": "Fruit punch drink canned 6 fl oz",
+			"protein": "0",
+			"fat": "0",
+			"carbo": "22",
+			"kcal": "85"
+		},
+		{
+			"name": "Fruitcake dark from home recip 1 cake",
+			"protein": "74",
+			"fat": "228",
+			"carbo": "783",
+			"kcal": "5185"
+		},
+		{
+			"name": "Fruitcake dark from homerecip 1 piece",
+			"protein": "2",
+			"fat": "7",
+			"carbo": "25",
+			"kcal": "165"
+		},
+		{
+			"name": "Fudge chocolate plain 1 oz",
+			"protein": "1",
+			"fat": "3",
+			"carbo": "21",
+			"kcal": "115"
+		},
+		{
+			"name": "Garlic powder 1 tsp",
+			"protein": "0",
+			"fat": "0",
+			"carbo": "2",
+			"kcal": "10"
+		},
+		{
+			"name": "Gelatin dessert prepared 1/2 cup",
+			"protein": "2",
+			"fat": "0",
+			"carbo": "17",
+			"kcal": "70"
+		},
+		{
+			"name": "Gelatin dry 1 envelp",
+			"protein": "6",
+			"fat": "0",
+			"carbo": "0",
+			"kcal": "25"
+		},
+		{
+			"name": "Gin rum vodka whisky 80-proof 1.5 f oz",
+			"protein": "0",
+			"fat": "0",
+			"carbo": "0",
+			"kcal": "95"
+		},
+		{
+			"name": "Gin rum vodka whisky 86-proof 1.5 f oz",
+			"protein": "0",
+			"fat": "0",
+			"carbo": "0",
+			"kcal": "105"
+		},
+		{
+			"name": "Gin rum vodka whisky 90-proof 1.5 f oz",
+			"protein": "0",
+			"fat": "0",
+			"carbo": "0",
+			"kcal": "110"
+		},
+		{
+			"name": "Ginger ale 12 fl oz",
+			"protein": "0",
+			"fat": "0",
+			"carbo": "32",
+			"kcal": "125"
+		},
+		{
+			"name": "Gingerbread cake from mix 1 cake",
+			"protein": "18",
+			"fat": "39",
+			"carbo": "291",
+			"kcal": "1575"
+		},
+		{
+			"name": "Gingerbread cake from mix 1 piece",
+			"protein": "2",
+			"fat": "4",
+			"carbo": "32",
+			"kcal": "175"
+		},
+		{
+			"name": "Golden grahams cereal 1 oz",
+			"protein": "2",
+			"fat": "1",
+			"carbo": "24",
+			"kcal": "110"
+		},
+		{
+			"name": "Graham cracker plain 2 crackr",
+			"protein": "1",
+			"fat": "1",
+			"carbo": "11",
+			"kcal": "60"
+		},
+		{
+			"name": "Grape drink canned 6 fl oz",
+			"protein": "0",
+			"fat": "0",
+			"carbo": "26",
+			"kcal": "100"
+		},
+		{
+			"name": "Grape juice canned 1 cup",
+			"protein": "1",
+			"fat": "0",
+			"carbo": "38",
+			"kcal": "155"
+		},
+		{
+			"name": "Grape soda 12 fl oz",
+			"protein": "0",
+			"fat": "0",
+			"carbo": "46",
+			"kcal": "180"
+		},
+		{
+			"name": "Grape frt jce frzn cncn unswten 6 fl oz",
+			"protein": "4",
+			"fat": "1",
+			"carbo": "72",
+			"kcal": "300"
+		},
+		{
+			"name": "Grape frt jce frzn dltd unswten1 cup",
+			"protein": "1",
+			"fat": "0",
+			"carbo": "24",
+			"kcal": "100"
+		},
+		{
+			"name": "Grape fruit juice canned swtnd 1 cup",
+			"protein": "1",
+			"fat": "0",
+			"carbo": "28",
+			"kcal": "115"
+		},
+		{
+			"name": "Grape fruit juice canned unswt 1 cup",
+			"protein": "1",
+			"fat": "0",
+			"carbo": "22",
+			"kcal": "95"
+		},
+		{
+			"name": "Grape fruit juice raw 1 cup",
+			"protein": "1",
+			"fat": "0",
+			"carbo": "23",
+			"kcal": "95"
+		},
+		{
+			"name": "Grape fruit canned syrup pack 1 cup",
+			"protein": "1",
+			"fat": "0",
+			"carbo": "39",
+			"kcal": "150"
+		},
+		{
+			"name": "Grape fruit raw pink 1/2 frut",
+			"protein": "1",
+			"fat": "0",
+			"carbo": "10",
+			"kcal": "40"
+		},
+		{
+			"name": "Grape fruit raw white 1/2 frut",
+			"protein": "1",
+			"fat": "0",
+			"carbo": "10",
+			"kcal": "40"
+		},
+		{
+			"name": "Grape jce frzn concenswtnd w/c 6 fl oz",
+			"protein": "1",
+			"fat": "1",
+			"carbo": "96",
+			"kcal": "385"
+		},
+		{
+			"name": "Grape jce frzn dilutdswtnd w/c1 cup",
+			"protein": "0",
+			"fat": "0",
+			"carbo": "32",
+			"kcal": "125"
+		},
+		{
+			"name": "Grape-nuts cereal 1 oz",
+			"protein": "3",
+			"fat": "0",
+			"carbo": "23",
+			"kcal": "100"
+		},
+		{
+			"name": "Grapes european raw thompsn 10 grape",
+			"protein": "0",
+			"fat": "0",
+			"carbo": "9",
+			"kcal": "35"
+		},
+		{
+			"name": "Grapes european raw tokay 10 grape",
+			"protein": "0",
+			"fat": "0",
+			"carbo": "10",
+			"kcal": "40"
+		},
+		{
+			"name": "Gravy and turkey frozen 5 oz",
+			"protein": "8",
+			"fat": "4",
+			"carbo": "7",
+			"kcal": "95"
+		},
+		{
+			"name": "Great northn beans dry ckddrn 1 cup",
+			"protein": "14",
+			"fat": "1",
+			"carbo": "38",
+			"kcal": "210"
+		},
+		{
+			"name": "Ground beef broiled lean 3 oz",
+			"protein": "21",
+			"fat": "16",
+			"carbo": "0",
+			"kcal": "230"
+		},
+		{
+			"name": "Ground beef broiled regular 3 oz",
+			"protein": "20",
+			"fat": "18",
+			"carbo": "0",
+			"kcal": "245"
+		},
+		{
+			"name": "Gum drops 1 oz",
+			"protein": "0",
+			"fat": "0",
+			"carbo": "25",
+			"kcal": "100"
+		},
+		{
+			"name": "Haddock breaded fried 3 oz",
+			"protein": "17",
+			"fat": "9",
+			"carbo": "7",
+			"kcal": "175"
+		},
+		{
+			"name": "Half and half cream 1 cup",
+			"protein": "7",
+			"fat": "28",
+			"carbo": "10",
+			"kcal": "315"
+		},
+		{
+			"name": "Half and half cream 1 tbsp",
+			"protein": "0",
+			"fat": "2",
+			"carbo": "1",
+			"kcal": "20"
+		},
+		{
+			"name": "Halibut broiled butterlemju 3 oz",
+			"protein": "20",
+			"fat": "6",
+			"carbo": "0",
+			"kcal": "140"
+		},
+		{
+			"name": "Hamburger 4 oz patty 1 sandwh",
+			"protein": "25",
+			"fat": "21",
+			"carbo": "38",
+			"kcal": "445"
+		},
+		{
+			"name": "Hamburger regular 1 sandwh",
+			"protein": "12",
+			"fat": "11",
+			"carbo": "28",
+			"kcal": "245"
+		},
+		{
+			"name": "Hard candy 1 oz",
+			"protein": "0",
+			"fat": "0",
+			"carbo": "28",
+			"kcal": "110"
+		},
+		{
+			"name": "Herring pickled 3 oz",
+			"protein": "17",
+			"fat": "13",
+			"carbo": "0",
+			"kcal": "190"
+		},
+		{
+			"name": "Hollandaise sce w/ h 2 from mx 1 cup",
+			"protein": "5",
+			"fat": "20",
+			"carbo": "14",
+			"kcal": "240"
+		},
+		{
+			"name": "Honey 1 cup",
+			"protein": "1",
+			"fat": "0",
+			"carbo": "279",
+			"kcal": "1030"
+		},
+		{
+			"name": "Honey 1 tbsp",
+			"protein": "0",
+			"fat": "0",
+			"carbo": "17",
+			"kcal": "65"
+		},
+		{
+			"name": "Honey nut cheerios cereal 1 oz",
+			"protein": "3",
+			"fat": "1",
+			"carbo": "23",
+			"kcal": "105"
+		},
+		{
+			"name": "Honeydew melon raw 1/10 mel",
+			"protein": "1",
+			"fat": "0",
+			"carbo": "12",
+			"kcal": "45"
+		},
+		{
+			"name": "Ice cream vanlla regulr 11% 1 cup",
+			"protein": "5",
+			"fat": "14",
+			"carbo": "32",
+			"kcal": "270"
+		},
+		{
+			"name": "Ice cream vanlla regulr 11% 1/2 galn",
+			"protein": "38",
+			"fat": "115",
+			"carbo": "254",
+			"kcal": "2155"
+		},
+		{
+			"name": "Ice cream vanlla regulr 11% 3 fl oz",
+			"protein": "2",
+			"fat": "5",
+			"carbo": "12",
+			"kcal": "100"
+		},
+		{
+			"name": "Ice cream vanlla rich 16% ft 1 cup",
+			"protein": "4",
+			"fat": "24",
+			"carbo": "32",
+			"kcal": "350"
+		},
+		{
+			"name": "Ice cream vanlla rich 16% ft 1/2 gal",
+			"protein": "33",
+			"fat": "190",
+			"carbo": "256",
+			"kcal": "2805"
+		},
+		{
+			"name": "Ice cream vanlla soft serve 1 cup",
+			"protein": "7",
+			"fat": "23",
+			"carbo": "38",
+			"kcal": "375"
+		},
+		{
+			"name": "Ice milk vanilla 4% fat 1 cup",
+			"protein": "5",
+			"fat": "6",
+			"carbo": "29",
+			"kcal": "185"
+		},
+		{
+			"name": "Ice milk vanilla 4% fat 1/2 gal",
+			"protein": "41",
+			"fat": "45",
+			"carbo": "232",
+			"kcal": "1470"
+		},
+		{
+			"name": "Ice milk vanillasoftserv 3% 1 cup",
+			"protein": "8",
+			"fat": "5",
+			"carbo": "38",
+			"kcal": "225"
+		},
+		{
+			"name": "Imitation creamers liquid frz 1 tbsp",
+			"protein": "0",
+			"fat": "1",
+			"carbo": "2",
+			"kcal": "20"
+		},
+		{
+			"name": "Imitation creamers powdered 1 tsp",
+			"protein": "0",
+			"fat": "1",
+			"carbo": "1",
+			"kcal": "10"
+		},
+		{
+			"name": "Imitation whipped topping frzn1 cup",
+			"protein": "1",
+			"fat": "19",
+			"carbo": "17",
+			"kcal": "240"
+		},
+		{
+			"name": "Imitation whipped topping frzn1 tbsp",
+			"protein": "0",
+			"fat": "1",
+			"carbo": "1",
+			"kcal": "15"
+		},
+		{
+			"name": "Imitatn sour dressing 1 cup",
+			"protein": "8",
+			"fat": "39",
+			"carbo": "11",
+			"kcal": "415"
+		},
+		{
+			"name": "Imitatn sour dressing 1 tbsp",
+			"protein": "0",
+			"fat": "2",
+			"carbo": "1",
+			"kcal": "20"
+		},
+		{
+			"name": "Imitatn whipd toping pressrzd 1 cup",
+			"protein": "1",
+			"fat": "16",
+			"carbo": "11",
+			"kcal": "185"
+		},
+		{
+			"name": "Imitatn whipd toping pressrzd 1 tbsp",
+			"protein": "0",
+			"fat": "1",
+			"carbo": "1",
+			"kcal": "10"
+		},
+		{
+			"name": "Imitatn whipd toping pwdr dprp 1 cup",
+			"protein": "3",
+			"fat": "10",
+			"carbo": "13",
+			"kcal": "150"
+		},
+		{
+			"name": "Imitatn whipd toping pwdr dprp 1 tbsp",
+			"protein": "0",
+			"fat": "0",
+			"carbo": "1",
+			"kcal": "10"
+		},
+		{
+			"name": "Italian bread 1 loaf",
+			"protein": "41",
+			"fat": "4",
+			"carbo": "256",
+			"kcal": "1255"
+		},
+		{
+			"name": "Italian bread 1 slice",
+			"protein": "3",
+			"fat": "0",
+			"carbo": "17",
+			"kcal": "85"
+		},
+		{
+			"name": "Italian salad dressing localor 1 tbsp",
+			"protein": "0",
+			"fat": "0",
+			"carbo": "2",
+			"kcal": "5"
+		},
+		{
+			"name": "Italian salad dressing regular 1 tbsp",
+			"protein": "0",
+			"fat": "9",
+			"carbo": "1",
+			"kcal": "80"
+		},
+		{
+			"name": "Jams and preserves 1 pkt",
+			"protein": "0",
+			"fat": "0",
+			"carbo": "10",
+			"kcal": "40"
+		},
+		{
+			"name": "Jams and preserves 1 tbsp",
+			"protein": "0",
+			"fat": "0",
+			"carbo": "14",
+			"kcal": "55"
+		},
+		{
+			"name": "Jellies 1 pkt",
+			"protein": "0",
+			"fat": "0",
+			"carbo": "10",
+			"kcal": "40"
+		},
+		{
+			"name": "Jellies 1 tbsp",
+			"protein": "0",
+			"fat": "0",
+			"carbo": "13",
+			"kcal": "50"
+		},
+		{
+			"name": "Jelly beans 1 oz",
+			"protein": "0",
+			"fat": "0",
+			"carbo": "26",
+			"kcal": "105"
+		},
+		{
+			"name": "Jerusalem-artichoke raw 1 cup",
+			"protein": "3",
+			"fat": "0",
+			"carbo": "26",
+			"kcal": "115"
+		},
+		{
+			"name": "Kale cooked from frozen 1 cup",
+			"protein": "4",
+			"fat": "1",
+			"carbo": "7",
+			"kcal": "40"
+		},
+		{
+			"name": "Kale cooked from raw 1 cup",
+			"protein": "2",
+			"fat": "1",
+			"carbo": "7",
+			"kcal": "40"
+		},
+		{
+			"name": "Kiwifruit raw 1 kiwi",
+			"protein": "1",
+			"fat": "0",
+			"carbo": "11",
+			"kcal": "45"
+		},
+		{
+			"name": "Kohlrabi cooked drained 1 cup",
+			"protein": "3",
+			"fat": "0",
+			"carbo": "11",
+			"kcal": "50"
+		},
+		{
+			"name": "Lamb rib roasted lean + fat3 oz",
+			"protein": "18",
+			"fat": "26",
+			"carbo": "0",
+			"kcal": "315"
+		},
+		{
+			"name": "Lamb rib roasted lean only 2 oz",
+			"protein": "15",
+			"fat": "7",
+			"carbo": "0",
+			"kcal": "130"
+		},
+		{
+			"name": "Lamb chops arm braised lean 1.7 oz",
+			"protein": "17",
+			"fat": "7",
+			"carbo": "0",
+			"kcal": "135"
+		},
+		{
+			"name": "Lamb chops arm braised lean+ft 2.2 oz",
+			"protein": "20",
+			"fat": "15",
+			"carbo": "0",
+			"kcal": "220"
+		},
+		{
+			"name": "Lamb chops loin broil lean 2.3 oz",
+			"protein": "19",
+			"fat": "6",
+			"carbo": "0",
+			"kcal": "140"
+		},
+		{
+			"name": "Lamb chops loin broil lean+fat 2.8 oz",
+			"protein": "22",
+			"fat": "16",
+			"carbo": "0",
+			"kcal": "235"
+		},
+		{
+			"name": "Lamb leg roasted lean only 2.6 oz",
+			"protein": "20",
+			"fat": "6",
+			"carbo": "0",
+			"kcal": "140"
+		},
+		{
+			"name": "Lamb legroasted lean+ fat 3 oz",
+			"protein": "22",
+			"fat": "13",
+			"carbo": "0",
+			"kcal": "205"
+		},
+		{
+			"name": "Lard 1 cup",
+			"protein": "0",
+			"fat": "205",
+			"carbo": "0",
+			"kcal": "1850"
+		},
+		{
+			"name": "Lard 1 tbsp",
+			"protein": "0",
+			"fat": "13",
+			"carbo": "0",
+			"kcal": "115"
+		},
+		{
+			"name": "Lemon juice canned 1 cup",
+			"protein": "1",
+			"fat": "1",
+			"carbo": "16",
+			"kcal": "50"
+		},
+		{
+			"name": "Lemon juice canned 1 tbsp",
+			"protein": "0",
+			"fat": "0",
+			"carbo": "1",
+			"kcal": "5"
+		},
+		{
+			"name": "Lemon juice raw 1 cup",
+			"protein": "1",
+			"fat": "0",
+			"carbo": "21",
+			"kcal": "60"
+		},
+		{
+			"name": "Lemon juice frzn single-strngh 6 fl oz",
+			"protein": "1",
+			"fat": "1",
+			"carbo": "16",
+			"kcal": "55"
+		},
+		{
+			"name": "Lemon meringue pie 1 pie",
+			"protein": "31",
+			"fat": "86",
+			"carbo": "317",
+			"kcal": "2140"
+		},
+		{
+			"name": "Lemon meringue pie 1 piece",
+			"protein": "5",
+			"fat": "14",
+			"carbo": "53",
+			"kcal": "355"
+		},
+		{
+			"name": "Lemonade concen frzen diluted 6 fl oz",
+			"protein": "0",
+			"fat": "0",
+			"carbo": "21",
+			"kcal": "80"
+		},
+		{
+			"name": "Lemonade concen trate frz undil 6 fl oz",
+			"protein": "0",
+			"fat": "0",
+			"carbo": "112",
+			"kcal": "425"
+		},
+		{
+			"name": "Lemon-lime soda 12 fl oz",
+			"protein": "0",
+			"fat": "0",
+			"carbo": "39",
+			"kcal": "155"
+		},
+		{
+			"name": "Lemons raw 1 lemon",
+			"protein": "1",
+			"fat": "0",
+			"carbo": "5",
+			"kcal": "15"
+		},
+		{
+			"name": "Lentils dry cooked 1 cup",
+			"protein": "16",
+			"fat": "1",
+			"carbo": "38",
+			"kcal": "215"
+		},
+		{
+			"name": "Lettuce butter head raw head 1 head",
+			"protein": "2",
+			"fat": "0",
+			"carbo": "4",
+			"kcal": "20"
+		},
+		{
+			"name": "Lettuce butter head raw leave 1 leaf",
+			"protein": "0",
+			"fat": "0",
+			"carbo": "0",
+			"kcal": "0"
+		},
+		{
+			"name": "Lettuce crisp head raw head 1 head",
+			"protein": "5",
+			"fat": "1",
+			"carbo": "11",
+			"kcal": "70"
+		},
+		{
+			"name": "Lettuce crisp head raw pieces 1 cup",
+			"protein": "1",
+			"fat": "0",
+			"carbo": "1",
+			"kcal": "5"
+		},
+		{
+			"name": "Lettuce crisp head raw wedge 1 wedge",
+			"protein": "1",
+			"fat": "0",
+			"carbo": "3",
+			"kcal": "20"
+		},
+		{
+			"name": "Lettuce loose leaf 1 cup",
+			"protein": "1",
+			"fat": "0",
+			"carbo": "2",
+			"kcal": "10"
+		},
+		{
+			"name": "Light coffee or table cream 1 cup",
+			"protein": "6",
+			"fat": "46",
+			"carbo": "9",
+			"kcal": "470"
+		},
+		{
+			"name": "Light coffee or table cream 1 tbsp",
+			"protein": "0",
+			"fat": "3",
+			"carbo": "1",
+			"kcal": "30"
+		},
+		{
+			"name": "Lima beans dry cooked draned 1 cup",
+			"protein": "16",
+			"fat": "1",
+			"carbo": "49",
+			"kcal": "260"
+		},
+		{
+			"name": "Lima beans baby frzn cked drn 1 cup",
+			"protein": "12",
+			"fat": "1",
+			"carbo": "35",
+			"kcal": "190"
+		},
+		{
+			"name": "Lima beans thick seed frznckd 1 cup",
+			"protein": "10",
+			"fat": "1",
+			"carbo": "32",
+			"kcal": "170"
+		},
+		{
+			"name": "Lime juice raw 1 cup",
+			"protein": "1",
+			"fat": "0",
+			"carbo": "22",
+			"kcal": "65"
+		},
+		{
+			"name": "Lime juicecanned 1 cup",
+			"protein": "1",
+			"fat": "1",
+			"carbo": "16",
+			"kcal": "50"
+		},
+		{
+			"name": "Limeade concen frozen diluted 6 fl oz",
+			"protein": "0",
+			"fat": "0",
+			"carbo": "20",
+			"kcal": "75"
+		},
+		{
+			"name": "Limeade concen trate frzn undil 6 fl oz",
+			"protein": "0",
+			"fat": "0",
+			"carbo": "108",
+			"kcal": "410"
+		},
+		{
+			"name": "Lucky charms cereal 1 oz",
+			"protein": "3",
+			"fat": "1",
+			"carbo": "23",
+			"kcal": "110"
+		},
+		{
+			"name": "Macadamia nuts oil rstd salted 1 cup",
+			"protein": "10",
+			"fat": "103",
+			"carbo": "17",
+			"kcal": "960"
+		},
+		{
+			"name": "Macadamia nuts oil rstd salted 1 oz",
+			"protein": "2",
+			"fat": "22",
+			"carbo": "4",
+			"kcal": "205"
+		},
+		{
+			"name": "Macadamia nuts oil rstd unsalt 1 cup",
+			"protein": "10",
+			"fat": "103",
+			"carbo": "17",
+			"kcal": "960"
+		},
+		{
+			"name": "Macadamia nuts oil rstd unsalt 1 oz",
+			"protein": "2",
+			"fat": "22",
+			"carbo": "4",
+			"kcal": "205"
+		},
+		{
+			"name": "Macaroni and cheese canned 1 cup",
+			"protein": "9",
+			"fat": "10",
+			"carbo": "26",
+			"kcal": "230"
+		},
+		{
+			"name": "Macaroni and cheese home rcpe 1 cup",
+			"protein": "17",
+			"fat": "22",
+			"carbo": "40",
+			"kcal": "430"
+		},
+		{
+			"name": "Macaroni cooked firm 1 cup",
+			"protein": "7",
+			"fat": "1",
+			"carbo": "39",
+			"kcal": "190"
+		},
+		{
+			"name": "Macaroni cooked tender hot 1 cup",
+			"protein": "5",
+			"fat": "1",
+			"carbo": "32",
+			"kcal": "155"
+		},
+		{
+			"name": "Macaroni cooked tender cold 1 cup",
+			"protein": "4",
+			"fat": "0",
+			"carbo": "24",
+			"kcal": "115"
+		},
+		{
+			"name": "Malted milk chocolate powder 3/4 oz",
+			"protein": "1",
+			"fat": "1",
+			"carbo": "18",
+			"kcal": "85"
+		},
+		{
+			"name": "Malted milk chocolate pwdr ppd 1 servng",
+			"protein": "9",
+			"fat": "9",
+			"carbo": "29",
+			"kcal": "235"
+		},
+		{
+			"name": "Malted milk natural powder 3/4 oz",
+			"protein": "3",
+			"fat": "2",
+			"carbo": "15",
+			"kcal": "85"
+		},
+		{
+			"name": "Malted milknatural pwdr pprd 1 servng",
+			"protein": "11",
+			"fat": "10",
+			"carbo": "27",
+			"kcal": "235"
+		},
+		{
+			"name": "Malt-o-meal w/o salt 1 cup",
+			"protein": "4",
+			"fat": "0",
+			"carbo": "26",
+			"kcal": "120"
+		},
+		{
+			"name": "Malt-o-meal with salt 1 cup",
+			"protein": "4",
+			"fat": "0",
+			"carbo": "26",
+			"kcal": "120"
+		},
+		{
+			"name": "Mangos raw 1 mango",
+			"protein": "1",
+			"fat": "1",
+			"carbo": "35",
+			"kcal": "135"
+		},
+		{
+			"name": "Margarine imitation 40% fat 1 tbsp",
+			"protein": "0",
+			"fat": "5",
+			"carbo": "0",
+			"kcal": "50"
+		},
+		{
+			"name": "Margarine imitation 40% fat 8 oz",
+			"protein": "1",
+			"fat": "88",
+			"carbo": "1",
+			"kcal": "785"
+		},
+		{
+			"name": "Margarine regulr hard 80% fat1 pat",
+			"protein": "0",
+			"fat": "4",
+			"carbo": "0",
+			"kcal": "35"
+		},
+		{
+			"name": "Margarine regulr hard 80% fat 1 tbsp",
+			"protein": "0",
+			"fat": "11",
+			"carbo": "0",
+			"kcal": "100"
+		},
+		{
+			"name": "Margarine regulr hard 80% fat 1/2 cup",
+			"protein": "1",
+			"fat": "91",
+			"carbo": "1",
+			"kcal": "810"
+		},
+		{
+			"name": "Margarine regulr soft 80% fat 1 tbsp",
+			"protein": "0",
+			"fat": "11",
+			"carbo": "0",
+			"kcal": "100"
+		},
+		{
+			"name": "Margarine regulr soft 80% fat 8 oz",
+			"protein": "2",
+			"fat": "183",
+			"carbo": "1",
+			"kcal": "1625"
+		},
+		{
+			"name": "Margarine spread hard 60% fat 1 pat",
+			"protein": "0",
+			"fat": "3",
+			"carbo": "0",
+			"kcal": "25"
+		},
+		{
+			"name": "Margarine spread hard 60% fat 1 tbsp",
+			"protein": "0",
+			"fat": "9",
+			"carbo": "0",
+			"kcal": "75"
+		},
+		{
+			"name": "Margarine spread hard 60% fat 1/2 cup",
+			"protein": "1",
+			"fat": "69",
+			"carbo": "0",
+			"kcal": "610"
+		},
+		{
+			"name": "Margarine spread soft  60% fat 1 tbsp",
+			"protein": "0",
+			"fat": "9",
+			"carbo": "0",
+			"kcal": "75"
+		},
+		{
+			"name": "Margarine spread soft  60% fat 8 oz",
+			"protein": "1",
+			"fat": "138",
+			"carbo": "0",
+			"kcal": "1225"
+		},
+		{
+			"name": "Marshmallows 1 oz",
+			"protein": "1",
+			"fat": "0",
+			"carbo": "23",
+			"kcal": "90"
+		},
+		{
+			"name": "Mayonnaise type salad dressing 1 tbsp",
+			"protein": "0",
+			"fat": "5",
+			"carbo": "4",
+			"kcal": "60"
+		},
+		{
+			"name": "Mayonnaise imitation 1 tbsp",
+			"protein": "0",
+			"fat": "3",
+			"carbo": "2",
+			"kcal": "35"
+		},
+		{
+			"name": "Mayonnaise regular 1 tbsp",
+			"protein": "0",
+			"fat": "11",
+			"carbo": "0",
+			"kcal": "100"
+		},
+		{
+			"name": "Melba toast plain 1 piece",
+			"protein": "1",
+			"fat": "0",
+			"carbo": "4",
+			"kcal": "20"
+		},
+		{
+			"name": "Milk chocolate candy plain 1 oz",
+			"protein": "2",
+			"fat": "9",
+			"carbo": "16",
+			"kcal": "145"
+		},
+		{
+			"name": "Milk chocolate candy w/ almond 1 oz",
+			"protein": "3",
+			"fat": "10",
+			"carbo": "15",
+			"kcal": "150"
+		},
+		{
+			"name": "Milk chocolate candy w/ penuts 1 oz",
+			"protein": "4",
+			"fat": "11",
+			"carbo": "13",
+			"kcal": "155"
+		},
+		{
+			"name": "Milk chocolate candy w/ rice c 1 oz",
+			"protein": "2",
+			"fat": "7",
+			"carbo": "18",
+			"kcal": "140"
+		},
+		{
+			"name": "Milk lofat 1% added solids 1 cup",
+			"protein": "9",
+			"fat": "2",
+			"carbo": "12",
+			"kcal": "105"
+		},
+		{
+			"name": "Milk lofat 1% no added solid 1 cup",
+			"protein": "8",
+			"fat": "3",
+			"carbo": "12",
+			"kcal": "100"
+		},
+		{
+			"name": "Milk lofat 2% added solids 1 cup",
+			"protein": "9",
+			"fat": "5",
+			"carbo": "12",
+			"kcal": "125"
+		},
+		{
+			"name": "Milk lofat 2% no added solid 1 cup",
+			"protein": "8",
+			"fat": "5",
+			"carbo": "12",
+			"kcal": "120"
+		},
+		{
+			"name": "Milk skim added milk solids 1 cup",
+			"protein": "9",
+			"fat": "1",
+			"carbo": "12",
+			"kcal": "90"
+		},
+		{
+			"name": "Milk skim no added milk solid 1 cup",
+			"protein": "8",
+			"fat": "0",
+			"carbo": "12",
+			"kcal": "85"
+		},
+		{
+			"name": "Milk whole 3.3% fat 1 cup",
+			"protein": "8",
+			"fat": "8",
+			"carbo": "11",
+			"kcal": "150"
+		},
+		{
+			"name": "Minestrone soup canned 1 cup",
+			"protein": "4",
+			"fat": "3",
+			"carbo": "11",
+			"kcal": "80"
+		},
+		{
+			"name": "Miso 1 cup",
+			"protein": "29",
+			"fat": "13",
+			"carbo": "65",
+			"kcal": "470"
+		},
+		{
+			"name": "Mixed grain bread 1 loaf",
+			"protein": "45",
+			"fat": "17",
+			"carbo": "212",
+			"kcal": "1165"
+		},
+		{
+			"name": "Mixed grain bread 1 slice",
+			"protein": "2",
+			"fat": "1",
+			"carbo": "12",
+			"kcal": "65"
+		},
+		{
+			"name": "Mixed grain bread toasted 1 slice",
+			"protein": "2",
+			"fat": "1",
+			"carbo": "12",
+			"kcal": "65"
+		},
+		{
+			"name": "Mixed nuts w/ peants dry saltd 1 oz",
+			"protein": "5",
+			"fat": "15",
+			"carbo": "7",
+			"kcal": "170"
+		},
+		{
+			"name": "Mixed nuts w/ peants dryunslt 1 oz",
+			"protein": "5",
+			"fat": "15",
+			"carbo": "7",
+			"kcal": "170"
+		},
+		{
+			"name": "Mixed nuts w/ peants oil saltd 1 oz",
+			"protein": "5",
+			"fat": "16",
+			"carbo": "6",
+			"kcal": "175"
+		},
+		{
+			"name": "Mixed nuts w/ peants oil unslt 1 oz",
+			"protein": "5",
+			"fat": "16",
+			"carbo": "6",
+			"kcal": "175"
+		},
+		{
+			"name": "Molasses cane black strap 2 tbsp",
+			"protein": "0",
+			"fat": "0",
+			"carbo": "22",
+			"kcal": "85"
+		},
+		{
+			"name": "Mozzarella cheese whole milk 1 oz",
+			"protein": "6",
+			"fat": "6",
+			"carbo": "1",
+			"kcal": "80"
+		},
+		{
+			"name": "Mozzarella cheseskim lomoist 1 oz",
+			"protein": "8",
+			"fat": "5",
+			"carbo": "1",
+			"kcal": "80"
+		},
+		{
+			"name": "Muenster cheese 1 oz",
+			"protein": "7",
+			"fat": "9",
+			"carbo": "0",
+			"kcal": "105"
+		},
+		{
+			"name": "Mushroom gravy canned 1 cup",
+			"protein": "3",
+			"fat": "6",
+			"carbo": "13",
+			"kcal": "120"
+		},
+		{
+			"name": "Mushrooms canned drndw/salt 1 cup",
+			"protein": "3",
+			"fat": "0",
+			"carbo": "8",
+			"kcal": "35"
+		},
+		{
+			"name": "Mushrooms cooked drained 1 cup",
+			"protein": "3",
+			"fat": "1",
+			"carbo": "8",
+			"kcal": "40"
+		},
+		{
+			"name": "Mushrooms raw 1 cup",
+			"protein": "1",
+			"fat": "0",
+			"carbo": "3",
+			"kcal": "20"
+		},
+		{
+			"name": "Mustard greens cooked draned 1 cup",
+			"protein": "3",
+			"fat": "0",
+			"carbo": "3",
+			"kcal": "20"
+		},
+		{
+			"name": "Mustard prepared yellow 1 tsp",
+			"protein": "0",
+			"fat": "0",
+			"carbo": "0",
+			"kcal": "5"
+		},
+		{
+			"name": "Nature valley granola cereal 1 oz",
+			"protein": "3",
+			"fat": "5",
+			"carbo": "19",
+			"kcal": "125"
+		},
+		{
+			"name": "Nectarines raw 1 nectrn",
+			"protein": "1",
+			"fat": "1",
+			"carbo": "16",
+			"kcal": "65"
+		},
+		{
+			"name": "Nonfat dry milk instantized 1 cup",
+			"protein": "24",
+			"fat": "0",
+			"carbo": "35",
+			"kcal": "245"
+		},
+		{
+			"name": "Nonfat dry milk instantized 1 envlpe",
+			"protein": "32",
+			"fat": "1",
+			"carbo": "47",
+			"kcal": "325"
+		},
+		{
+			"name": "Noodles chow mein canned 1 cup",
+			"protein": "6",
+			"fat": "11",
+			"carbo": "26",
+			"kcal": "220"
+		},
+		{
+			"name": "Noodles egg cooked 1 cup",
+			"protein": "7",
+			"fat": "2",
+			"carbo": "37",
+			"kcal": "200"
+		},
+		{
+			"name": "Oatmeal bread 1 loaf",
+			"protein": "38",
+			"fat": "20",
+			"carbo": "212",
+			"kcal": "1145"
+		},
+		{
+			"name": "Oatmeal bread 1 slice",
+			"protein": "2",
+			"fat": "1",
+			"carbo": "12",
+			"kcal": "65"
+		},
+		{
+			"name": "Oatmeal bread toasted 1 slice",
+			"protein": "2",
+			"fat": "1",
+			"carbo": "12",
+			"kcal": "65"
+		},
+		{
+			"name": "Oatmeal w/ raisins cookies 4 cookie",
+			"protein": "3",
+			"fat": "10",
+			"carbo": "36",
+			"kcal": "245"
+		},
+		{
+			"name": "Oatmeal ckd instnt flvrd fortf 1 pkt",
+			"protein": "5",
+			"fat": "2",
+			"carbo": "31",
+			"kcal": "160"
+		},
+		{
+			"name": "Oatmeal ckd instnt plain fortf 1 pkt",
+			"protein": "4",
+			"fat": "2",
+			"carbo": "18",
+			"kcal": "105"
+		},
+		{
+			"name": "Oatmeal ckd rgqck inst w/o sal 1 cup",
+			"protein": "6",
+			"fat": "2",
+			"carbo": "25",
+			"kcal": "145"
+		},
+		{
+			"name": "Oatmeal ckdr gqck inst w/salt 1 cup",
+			"protein": "6",
+			"fat": "2",
+			"carbo": "25",
+			"kcal": "145"
+		},
+		{
+			"name": "Ocean perch breaded fried 1 fillet",
+			"protein": "16",
+			"fat": "11",
+			"carbo": "7",
+			"kcal": "185"
+		},
+		{
+			"name": "Okra pods cooked 8 pods",
+			"protein": "2",
+			"fat": "0",
+			"carbo": "6",
+			"kcal": "25"
+		},
+		{
+			"name": "Olive oil 1 cup",
+			"protein": "0",
+			"fat": "216",
+			"carbo": "0",
+			"kcal": "1910"
+		},
+		{
+			"name": "Olive oil 1 tbsp",
+			"protein": "0",
+			"fat": "14",
+			"carbo": "0",
+			"kcal": "125"
+		},
+		{
+			"name": "Olives canned green 4 medium",
+			"protein": "0",
+			"fat": "2",
+			"carbo": "0",
+			"kcal": "15"
+		},
+		{
+			"name": "Olives canned ripe mission 3 small",
+			"protein": "0",
+			"fat": "2",
+			"carbo": "0",
+			"kcal": "15"
+		},
+		{
+			"name": "Onion powder 1 tsp",
+			"protein": "0",
+			"fat": "0",
+			"carbo": "2",
+			"kcal": "5"
+		},
+		{
+			"name": "Onion rings breaded frzn prpd 2 rings",
+			"protein": "1",
+			"fat": "5",
+			"carbo": "8",
+			"kcal": "80"
+		},
+		{
+			"name": "Onion soup dehydratd prepred 1 pkt",
+			"protein": "1",
+			"fat": "0",
+			"carbo": "4",
+			"kcal": "20"
+		},
+		{
+			"name": "Onion soup dehydrtd unprpred 1 pkt",
+			"protein": "1",
+			"fat": "0",
+			"carbo": "4",
+			"kcal": "20"
+		},
+		{
+			"name": "Onions raw chopped 1 cup",
+			"protein": "2",
+			"fat": "0",
+			"carbo": "12",
+			"kcal": "55"
+		},
+		{
+			"name": "Onions raw cooked drained 1 cup",
+			"protein": "2",
+			"fat": "0",
+			"carbo": "13",
+			"kcal": "60"
+		},
+		{
+			"name": "Onions raw sliced 1 cup",
+			"protein": "1",
+			"fat": "0",
+			"carbo": "8",
+			"kcal": "40"
+		},
+		{
+			"name": "Onions spring raw 6 onion",
+			"protein": "1",
+			"fat": "0",
+			"carbo": "2",
+			"kcal": "10"
+		},
+		{
+			"name": "Orange + grapefruit juce cannd 1 cup",
+			"protein": "1",
+			"fat": "0",
+			"carbo": "25",
+			"kcal": "105"
+		},
+		{
+			"name": "Orange juice canned 1 cup",
+			"protein": "1",
+			"fat": "0",
+			"carbo": "25",
+			"kcal": "105"
+		},
+		{
+			"name": "Orange juice chilled 1 cup",
+			"protein": "2",
+			"fat": "1",
+			"carbo": "25",
+			"kcal": "110"
+		},
+		{
+			"name": "Orange juice raw 1 cup",
+			"protein": "2",
+			"fat": "0",
+			"carbo": "26",
+			"kcal": "110"
+		},
+		{
+			"name": "Orange juice frozen concentrte 6 fl oz",
+			"protein": "5",
+			"fat": "0",
+			"carbo": "81",
+			"kcal": "340"
+		},
+		{
+			"name": "Orange juice frznc ncndiluted 1 cup",
+			"protein": "2",
+			"fat": "0",
+			"carbo": "27",
+			"kcal": "110"
+		},
+		{
+			"name": "Orange soda 12 fl oz",
+			"protein": "0",
+			"fat": "0",
+			"carbo": "46",
+			"kcal": "180"
+		},
+		{
+			"name": "Oranges raw 1 orange",
+			"protein": "1",
+			"fat": "0",
+			"carbo": "15",
+			"kcal": "60"
+		},
+		{
+			"name": "Oranges raw sections 1 cup",
+			"protein": "2",
+			"fat": "0",
+			"carbo": "21",
+			"kcal": "85"
+		},
+		{
+			"name": "Oregano 1 tsp",
+			"protein": "0",
+			"fat": "0",
+			"carbo": "1",
+			"kcal": "5"
+		},
+		{
+			"name": "Oysters breaded fried 1 oyster",
+			"protein": "5",
+			"fat": "5",
+			"carbo": "5",
+			"kcal": "90"
+		},
+		{
+			"name": "Oysters raw 1 cup",
+			"protein": "20",
+			"fat": "4",
+			"carbo": "8",
+			"kcal": "160"
+		},
+		{
+			"name": "Pancakes buck wheat from mix 1 pancak",
+			"protein": "2",
+			"fat": "2",
+			"carbo": "6",
+			"kcal": "55"
+		},
+		{
+			"name": "Pancakes plain from mix 1 pancak",
+			"protein": "2",
+			"fat": "2",
+			"carbo": "8",
+			"kcal": "60"
+		},
+		{
+			"name": "Pancakes plain home recipe 1 pancak",
+			"protein": "2",
+			"fat": "2",
+			"carbo": "9",
+			"kcal": "60"
+		},
+		{
+			"name": "Papayas raw 1 cup",
+			"protein": "1",
+			"fat": "0",
+			"carbo": "17",
+			"kcal": "65"
+		},
+		{
+			"name": "Paprika 1 tsp",
+			"protein": "0",
+			"fat": "0",
+			"carbo": "1",
+			"kcal": "5"
+		},
+		{
+			"name": "Parmesan cheese grated 1 cup",
+			"protein": "42",
+			"fat": "30",
+			"carbo": "4",
+			"kcal": "455"
+		},
+		{
+			"name": "Parmesan cheese grated 1 oz",
+			"protein": "12",
+			"fat": "9",
+			"carbo": "1",
+			"kcal": "130"
+		},
+		{
+			"name": "Parmesan cheese grated 1 tbsp",
+			"protein": "2",
+			"fat": "2",
+			"carbo": "0",
+			"kcal": "25"
+		},
+		{
+			"name": "Parsley freeze-dried 1 tbsp",
+			"protein": "0",
+			"fat": "0",
+			"carbo": "0",
+			"kcal": "0"
+		},
+		{
+			"name": "Parsley raw 10 sprig",
+			"protein": "0",
+			"fat": "0",
+			"carbo": "1",
+			"kcal": "5"
+		},
+		{
+			"name": "Parsnips cooked drained 1 cup",
+			"protein": "2",
+			"fat": "0",
+			"carbo": "30",
+			"kcal": "125"
+		},
+		{
+			"name": "Pasterzd proces cheese swiss 1 oz",
+			"protein": "7",
+			"fat": "7",
+			"carbo": "1",
+			"kcal": "95"
+		},
+		{
+			"name": "Pasterzd proces cheese americn 1 oz",
+			"protein": "6",
+			"fat": "9",
+			"carbo": "0",
+			"kcal": "105"
+		},
+		{
+			"name": "Pasterzd proces chese foodamr 1 oz",
+			"protein": "6",
+			"fat": "7",
+			"carbo": "2",
+			"kcal": "95"
+		},
+		{
+			"name": "Pasterzd proces chese spredam 1 oz",
+			"protein": "5",
+			"fat": "6",
+			"carbo": "2",
+			"kcal": "80"
+		},
+		{
+			"name": "Pea beans dry cooked drained 1 cup",
+			"protein": "15",
+			"fat": "1",
+			"carbo": "40",
+			"kcal": "225"
+		},
+		{
+			"name": "Pea green soup canned 1 cup",
+			"protein": "9",
+			"fat": "3",
+			"carbo": "27",
+			"kcal": "165"
+		},
+		{
+			"name": "Peach pie 1 pie",
+			"protein": "24",
+			"fat": "101",
+			"carbo": "361",
+			"kcal": "2410"
+		},
+		{
+			"name": "Peach pie 1 piece",
+			"protein": "4",
+			"fat": "17",
+			"carbo": "60",
+			"kcal": "405"
+		},
+		{
+			"name": "Peaches canned heavy syrup 1 cup",
+			"protein": "1",
+			"fat": "0",
+			"carbo": "51",
+			"kcal": "190"
+		},
+		{
+			"name": "Peaches canned heavy syrup 1 half",
+			"protein": "0",
+			"fat": "0",
+			"carbo": "16",
+			"kcal": "60"
+		},
+		{
+			"name": "Peaches canned juice pack 1 cup",
+			"protein": "2",
+			"fat": "0",
+			"carbo": "29",
+			"kcal": "110"
+		},
+		{
+			"name": "Peaches canned juice pack 1 half",
+			"protein": "0",
+			"fat": "0",
+			"carbo": "9",
+			"kcal": "35"
+		},
+		{
+			"name": "Peaches dried 1 cup",
+			"protein": "6",
+			"fat": "1",
+			"carbo": "98",
+			"kcal": "380"
+		},
+		{
+			"name": "Peaches dried cooked unswetnd 1 cup",
+			"protein": "3",
+			"fat": "1",
+			"carbo": "51",
+			"kcal": "200"
+		},
+		{
+			"name": "Peaches frozen swetned w/vitc 1 cup",
+			"protein": "2",
+			"fat": "0",
+			"carbo": "60",
+			"kcal": "235"
+		},
+		{
+			"name": "Peaches frozen swetned w/vitc 10 oz",
+			"protein": "2",
+			"fat": "0",
+			"carbo": "68",
+			"kcal": "265"
+		},
+		{
+			"name": "Peaches raw 1 peach",
+			"protein": "1",
+			"fat": "0",
+			"carbo": "10",
+			"kcal": "35"
+		},
+		{
+			"name": "Peaches raw sliced 1 cup",
+			"protein": "1",
+			"fat": "0",
+			"carbo": "19",
+			"kcal": "75"
+		},
+		{
+			"name": "Peanut butter 1 tbsp",
+			"protein": "5",
+			"fat": "8",
+			"carbo": "3",
+			"kcal": "95"
+		},
+		{
+			"name": "Peanut butter cookie home recp 4 cookie",
+			"protein": "4",
+			"fat": "14",
+			"carbo": "28",
+			"kcal": "245"
+		},
+		{
+			"name": "Peanut oil 1 cup",
+			"protein": "0",
+			"fat": "216",
+			"carbo": "0",
+			"kcal": "1910"
+		},
+		{
+			"name": "Peanut oil 1 tbsp",
+			"protein": "0",
+			"fat": "14",
+			"carbo": "0",
+			"kcal": "125"
+		},
+		{
+			"name": "Peanuts oil roasted salted 1 cup",
+			"protein": "39",
+			"fat": "71",
+			"carbo": "27",
+			"kcal": "840"
+		},
+		{
+			"name": "Peanuts oil roasted salted 1 oz",
+			"protein": "8",
+			"fat": "14",
+			"carbo": "5",
+			"kcal": "165"
+		},
+		{
+			"name": "Peanuts oil roasted unsalted 1 cup",
+			"protein": "39",
+			"fat": "71",
+			"carbo": "27",
+			"kcal": "840"
+		},
+		{
+			"name": "Peanuts oil roasted unsalted 1 oz",
+			"protein": "8",
+			"fat": "14",
+			"carbo": "5",
+			"kcal": "165"
+		},
+		{
+			"name": "Pears canned heavy syrup 1 cup",
+			"protein": "1",
+			"fat": "0",
+			"carbo": "49",
+			"kcal": "190"
+		},
+		{
+			"name": "Pears canned heavy syrup 1 half",
+			"protein": "0",
+			"fat": "0",
+			"carbo": "15",
+			"kcal": "60"
+		},
+		{
+			"name": "Pears canned juice pack 1 cup",
+			"protein": "1",
+			"fat": "0",
+			"carbo": "32",
+			"kcal": "125"
+		},
+		{
+			"name": "Pears canned juice pack 1 half",
+			"protein": "0",
+			"fat": "0",
+			"carbo": "10",
+			"kcal": "40"
+		},
+		{
+			"name": "Pears raw bartlett 1 pear",
+			"protein": "1",
+			"fat": "1",
+			"carbo": "25",
+			"kcal": "100"
+		},
+		{
+			"name": "Pears raw bosc 1 pear",
+			"protein": "1",
+			"fat": "1",
+			"carbo": "21",
+			"kcal": "85"
+		},
+		{
+			"name": "Pears raw d'anjou 1 pear",
+			"protein": "1",
+			"fat": "1",
+			"carbo": "30",
+			"kcal": "120"
+		},
+		{
+			"name": "Peas edible pod cooked drned 1 cup",
+			"protein": "5",
+			"fat": "0",
+			"carbo": "11",
+			"kcal": "65"
+		},
+		{
+			"name": "Peas green cnnd drnd w/ salt 1 cup",
+			"protein": "8",
+			"fat": "1",
+			"carbo": "21",
+			"kcal": "115"
+		},
+		{
+			"name": "Peas green cnnd drnd w/o salt 1 cup",
+			"protein": "8",
+			"fat": "1",
+			"carbo": "21",
+			"kcal": "115"
+		},
+		{
+			"name": "Peas split dry cooked 1 cup",
+			"protein": "16",
+			"fat": "1",
+			"carbo": "42",
+			"kcal": "230"
+		},
+		{
+			"name": "Peas grn frozen cooked draned 1 cup",
+			"protein": "8",
+			"fat": "0",
+			"carbo": "23",
+			"kcal": "125"
+		},
+		{
+			"name": "Pecan pie 1 pie",
+			"protein": "42",
+			"fat": "189",
+			"carbo": "423",
+			"kcal": "3450"
+		},
+		{
+			"name": "Pecan pie 1 piece",
+			"protein": "7",
+			"fat": "32",
+			"carbo": "71",
+			"kcal": "575"
+		},
+		{
+			"name": "Pecans halves 1 cup",
+			"protein": "8",
+			"fat": "73",
+			"carbo": "20",
+			"kcal": "720"
+		},
+		{
+			"name": "Pecans halves 1 oz",
+			"protein": "2",
+			"fat": "19",
+			"carbo": "5",
+			"kcal": "190"
+		},
+		{
+			"name": "Pepper black 1 tsp",
+			"protein": "0",
+			"fat": "0",
+			"carbo": "1",
+			"kcal": "5"
+		},
+		{
+			"name": "Peppers hot chili raw green 1 pepper",
+			"protein": "1",
+			"fat": "0",
+			"carbo": "4",
+			"kcal": "20"
+		},
+		{
+			"name": "Peppers hot chili raw red 1 pepper",
+			"protein": "1",
+			"fat": "0",
+			"carbo": "4",
+			"kcal": "20"
+		},
+		{
+			"name": "Peppers sweet cooked green 1 pepper",
+			"protein": "0",
+			"fat": "0",
+			"carbo": "3",
+			"kcal": "15"
+		},
+		{
+			"name": "Peppers sweet cooked red 1 pepper",
+			"protein": "0",
+			"fat": "0",
+			"carbo": "3",
+			"kcal": "15"
+		},
+		{
+			"name": "Peppers sweet raw green 1 pepper",
+			"protein": "1",
+			"fat": "0",
+			"carbo": "4",
+			"kcal": "20"
+		},
+		{
+			"name": "Peppers sweet raw red 1 pepper",
+			"protein": "1",
+			"fat": "0",
+			"carbo": "4",
+			"kcal": "20"
+		},
+		{
+			"name": "Pepper-type soda 12 fl oz",
+			"protein": "0",
+			"fat": "0",
+			"carbo": "41",
+			"kcal": "160"
+		},
+		{
+			"name": "Pickles cucumber dill 1 pickle",
+			"protein": "0",
+			"fat": "0",
+			"carbo": "1",
+			"kcal": "5"
+		},
+		{
+			"name": "Pickles cucumber fresh pack 2 slices",
+			"protein": "0",
+			"fat": "0",
+			"carbo": "3",
+			"kcal": "10"
+		},
+		{
+			"name": "Pickles cucumber swt gherkin1 pickle",
+			"protein": "0",
+			"fat": "0",
+			"carbo": "5",
+			"kcal": "20"
+		},
+		{
+			"name": "Pie crust from mix 2 crust",
+			"protein": "20",
+			"fat": "93",
+			"carbo": "141",
+			"kcal": "1485"
+		},
+		{
+			"name": "Pie crust from home recipe 1 shell",
+			"protein": "11",
+			"fat": "60",
+			"carbo": "79",
+			"kcal": "900"
+		},
+		{
+			"name": "Pine nuts 1 oz",
+			"protein": "3",
+			"fat": "17",
+			"carbo": "5",
+			"kcal": "160"
+		},
+		{
+			"name": "Pineapple juice canned unswtn 1 cup",
+			"protein": "1",
+			"fat": "0",
+			"carbo": "34",
+			"kcal": "140"
+		},
+		{
+			"name": "Pineapple canned heavy syrup 1 cup",
+			"protein": "1",
+			"fat": "0",
+			"carbo": "52",
+			"kcal": "200"
+		},
+		{
+			"name": "Pineapple canned heavy syrup 1 slice",
+			"protein": "0",
+			"fat": "0",
+			"carbo": "12",
+			"kcal": "45"
+		},
+		{
+			"name": "Pineapple canned juice pack 1 cup",
+			"protein": "1",
+			"fat": "0",
+			"carbo": "39",
+			"kcal": "150"
+		},
+		{
+			"name": "Pineapple canned juice pack 1 slice",
+			"protein": "0",
+			"fat": "0",
+			"carbo": "9",
+			"kcal": "35"
+		},
+		{
+			"name": "Pineapple raw diced 1 cup",
+			"protein": "1",
+			"fat": "1",
+			"carbo": "19",
+			"kcal": "75"
+		},
+		{
+			"name": "Pineapple-grapefruit juice drnk 6 fl oz",
+			"protein": "0",
+			"fat": "0",
+			"carbo": "23",
+			"kcal": "90"
+		},
+		{
+			"name": "Pinto beans dry cooked drained 1 cup",
+			"protein": "15",
+			"fat": "1",
+			"carbo": "49",
+			"kcal": "265"
+		},
+		{
+			"name": "Pistachio nuts 1 oz",
+			"protein": "6",
+			"fat": "14",
+			"carbo": "7",
+			"kcal": "165"
+		},
+		{
+			"name": "Pita bread 1 pita",
+			"protein": "6",
+			"fat": "1",
+			"carbo": "33",
+			"kcal": "165"
+		},
+		{
+			"name": "Pizza cheese 1 slice",
+			"protein": "15",
+			"fat": "9",
+			"carbo": "39",
+			"kcal": "290"
+		},
+		{
+			"name": "Plantains cooked 1 cup",
+			"protein": "1",
+			"fat": "0",
+			"carbo": "48",
+			"kcal": "180"
+		},
+		{
+			"name": "Plantains raw 1 plantn",
+			"protein": "2",
+			"fat": "1",
+			"carbo": "57",
+			"kcal": "220"
+		},
+		{
+			"name": "Plums canned heavy syrup 1 cup",
+			"protein": "1",
+			"fat": "0",
+			"carbo": "60",
+			"kcal": "230"
+		},
+		{
+			"name": "Plums canned heavy syrup 3 plums",
+			"protein": "0",
+			"fat": "0",
+			"carbo": "31",
+			"kcal": "120"
+		},
+		{
+			"name": "Plums canned juice pack 1 cup",
+			"protein": "1",
+			"fat": "0",
+			"carbo": "38",
+			"kcal": "145"
+		},
+		{
+			"name": "Plums canned juice pack 3 plums",
+			"protein": "0",
+			"fat": "0",
+			"carbo": "14",
+			"kcal": "55"
+		},
+		{
+			"name": "Plums raw 1-1/2-in diam 1 plum",
+			"protein": "0",
+			"fat": "0",
+			"carbo": "4",
+			"kcal": "15"
+		},
+		{
+			"name": "Plums raw 2-1/8-in diam 1 plum",
+			"protein": "1",
+			"fat": "0",
+			"carbo": "9",
+			"kcal": "35"
+		},
+		{
+			"name": "Popcorn air-popped unsalted 1 cup",
+			"protein": "1",
+			"fat": "0",
+			"carbo": "6",
+			"kcal": "30"
+		},
+		{
+			"name": "Popcorn popped veg oil saltd 1 cup",
+			"protein": "1",
+			"fat": "3",
+			"carbo": "6",
+			"kcal": "55"
+		},
+		{
+			"name": "Popcorn sugar syrup coated 1 cup",
+			"protein": "2",
+			"fat": "1",
+			"carbo": "30",
+			"kcal": "135"
+		},
+		{
+			"name": "Popsicle 1 popcle",
+			"protein": "0",
+			"fat": "0",
+			"carbo": "18",
+			"kcal": "70"
+		},
+		{
+			"name": "Pork chop loin broil lean 2.5 oz",
+			"protein": "23",
+			"fat": "8",
+			"carbo": "0",
+			"kcal": "165"
+		},
+		{
+			"name": "Pork chop loin broil len+ft3.1 oz",
+			"protein": "24",
+			"fat": "19",
+			"carbo": "0",
+			"kcal": "275"
+		},
+		{
+			"name": "Pork chop loinpanfry lean 2.4 oz",
+			"protein": "19",
+			"fat": "11",
+			"carbo": "0",
+			"kcal": "180"
+		},
+		{
+			"name": "Pork chop loinpan fry lean+ft3.1 oz",
+			"protein": "21",
+			"fat": "27",
+			"carbo": "0",
+			"kcal": "335"
+		},
+		{
+			"name": "Pork fresh ham roastd lean 2.5 oz",
+			"protein": "20",
+			"fat": "8",
+			"carbo": "0",
+			"kcal": "160"
+		},
+		{
+			"name": "Pork fresh ham roastd lean+ft3 oz",
+			"protein": "21",
+			"fat": "18",
+			"carbo": "0",
+			"kcal": "250"
+		},
+		{
+			"name": "Pork fresh rib roastd lean 2.5 oz",
+			"protein": "20",
+			"fat": "10",
+			"carbo": "0",
+			"kcal": "175"
+		},
+		{
+			"name": "Pork fresh rib roastd lean+ft3 oz",
+			"protein": "21",
+			"fat": "20",
+			"carbo": "0",
+			"kcal": "270"
+		},
+		{
+			"name": "Pork shoulder braisd lean 2.4 oz",
+			"protein": "22",
+			"fat": "8",
+			"carbo": "0",
+			"kcal": "165"
+		},
+		{
+			"name": "Pork shoulder braisd lean+fat 3 oz",
+			"protein": "23",
+			"fat": "22",
+			"carbo": "0",
+			"kcal": "295"
+		},
+		{
+			"name": "Pork cured bacon regulcked 3 slice",
+			"protein": "6",
+			"fat": "9",
+			"carbo": "0",
+			"kcal": "110"
+		},
+		{
+			"name": "Pork cured bacon canadn cked  2 slice",
+			"protein": "11",
+			"fat": "4",
+			"carbo": "1",
+			"kcal": "85"
+		},
+		{
+			"name": "Pork cured ham canned roast 3 oz",
+			"protein": "18",
+			"fat": "7",
+			"carbo": "0",
+			"kcal": "140"
+		},
+		{
+			"name": "Pork cured ham rosted lean 2.4 oz",
+			"protein": "17",
+			"fat": "4",
+			"carbo": "0",
+			"kcal": "105"
+		},
+		{
+			"name": "Pork cured ham rosted ln+ft 3 oz",
+			"protein": "18",
+			"fat": "14",
+			"carbo": "0",
+			"kcal": "205"
+		},
+		{
+			"name": "Pork link cooked 1 link",
+			"protein": "3",
+			"fat": "4",
+			"carbo": "0",
+			"kcal": "50"
+		},
+		{
+			"name": "Pork luncheon meat canned 2 slices",
+			"protein": "5",
+			"fat": "13",
+			"carbo": "1",
+			"kcal": "140"
+		},
+		{
+			"name": "Pork luncheon meat choppd ham 2 slices",
+			"protein": "7",
+			"fat": "7",
+			"carbo": "0",
+			"kcal": "95"
+		},
+		{
+			"name": "Pork luncheon mea tckd hamln 2 slices",
+			"protein": "11",
+			"fat": "3",
+			"carbo": "1",
+			"kcal": "75"
+		},
+		{
+			"name": "Pork luncheon meat ckd hamrg 2 slices",
+			"protein": "10",
+			"fat": "6",
+			"carbo": "2",
+			"kcal": "105"
+		},
+		{
+			"name": "Potato chips 10 chips",
+			"protein": "1",
+			"fat": "7",
+			"carbo": "10",
+			"kcal": "105"
+		},
+		{
+			"name": "Potato salad made w/ mayonnais 1 cup",
+			"protein": "7",
+			"fat": "21",
+			"carbo": "28",
+			"kcal": "360"
+		},
+		{
+			"name": "Potatoes au gratin from mix 1 cup",
+			"protein": "6",
+			"fat": "10",
+			"carbo": "31",
+			"kcal": "230"
+		},
+		{
+			"name": "Potatoes au gratin home recp 1 cup",
+			"protein": "12",
+			"fat": "19",
+			"carbo": "28",
+			"kcal": "325"
+		},
+		{
+			"name": "Potatoes baked flesh only 1 potato",
+			"protein": "3",
+			"fat": "0",
+			"carbo": "34",
+			"kcal": "145"
+		},
+		{
+			"name": "Potatoes baked with skin 1 potato",
+			"protein": "5",
+			"fat": "0",
+			"carbo": "51",
+			"kcal": "220"
+		},
+		{
+			"name": "Potatoes boiled peeled after 1 potato",
+			"protein": "3",
+			"fat": "0",
+			"carbo": "27",
+			"kcal": "120"
+		},
+		{
+			"name": "Potatoes boiled peeled befor 1 potato",
+			"protein": "2",
+			"fat": "0",
+			"carbo": "27",
+			"kcal": "115"
+		},
+		{
+			"name": "Potatoes hashed brown fr frzn 1 cup",
+			"protein": "5",
+			"fat": "18",
+			"carbo": "44",
+			"kcal": "340"
+		},
+		{
+			"name": "Potatoes mashed frm dehydrted 1 cup",
+			"protein": "4",
+			"fat": "12",
+			"carbo": "32",
+			"kcal": "235"
+		},
+		{
+			"name": "Potatoes mashed recpe mlk+mar 1 cup",
+			"protein": "4",
+			"fat": "9",
+			"carbo": "35",
+			"kcal": "225"
+		},
+		{
+			"name": "Potatoes mashed recpe w/ milk 1 cup",
+			"protein": "4",
+			"fat": "1",
+			"carbo": "37",
+			"kcal": "160"
+		},
+		{
+			"name": "Potatoes scalloped from mix 1 cup",
+			"protein": "5",
+			"fat": "11",
+			"carbo": "31",
+			"kcal": "230"
+		},
+		{
+			"name": "Potatoes scalloped home recp 1 cup",
+			"protein": "7",
+			"fat": "9",
+			"carbo": "26",
+			"kcal": "210"
+		},
+		{
+			"name": "Potatoes french-frdfrzn fried 10 strip",
+			"protein": "2",
+			"fat": "8",
+			"carbo": "20",
+			"kcal": "160"
+		},
+		{
+			"name": "Potatoes french-frdfrzn oven 10 strip",
+			"protein": "2",
+			"fat": "4",
+			"carbo": "17",
+			"kcal": "110"
+		},
+		{
+			"name": "Pound cake commercial 1 loaf",
+			"protein": "26",
+			"fat": "94",
+			"carbo": "257",
+			"kcal": "1935"
+		},
+		{
+			"name": "Pound cake commercial 1 slice",
+			"protein": "2",
+			"fat": "5",
+			"carbo": "15",
+			"kcal": "110"
+		},
+		{
+			"name": "Pound cake from home recipe 1 loaf",
+			"protein": "33",
+			"fat": "94",
+			"carbo": "265",
+			"kcal": "2025"
+		},
+		{
+			"name": "Pound cake from home recipe 1 slice",
+			"protein": "2",
+			"fat": "5",
+			"carbo": "15",
+			"kcal": "120"
+		},
+		{
+			"name": "Pretzels stick 10 pretz",
+			"protein": "0",
+			"fat": "0",
+			"carbo": "2",
+			"kcal": "10"
+		},
+		{
+			"name": "Pretzels twisted dutch 1 pretz",
+			"protein": "2",
+			"fat": "1",
+			"carbo": "13",
+			"kcal": "65"
+		},
+		{
+			"name": "Pretzels twisted thin 10 pretz",
+			"protein": "6",
+			"fat": "2",
+			"carbo": "48",
+			"kcal": "240"
+		},
+		{
+			"name": "Product 19 cereal 1 oz",
+			"protein": "3",
+			"fat": "0",
+			"carbo": "24",
+			"kcal": "110"
+		},
+		{
+			"name": "Provolone cheese 1 oz",
+			"protein": "7",
+			"fat": "8",
+			"carbo": "1",
+			"kcal": "100"
+		},
+		{
+			"name": "Prune juice canned 1 cup",
+			"protein": "2",
+			"fat": "0",
+			"carbo": "45",
+			"kcal": "180"
+		},
+		{
+			"name": "Prunes dried 5 large",
+			"protein": "1",
+			"fat": "0",
+			"carbo": "31",
+			"kcal": "115"
+		},
+		{
+			"name": "Prunes dried cooked unswtned 1 cup",
+			"protein": "2",
+			"fat": "0",
+			"carbo": "60",
+			"kcal": "225"
+		},
+		{
+			"name": "Pudding choc cooked from mix1/2 cup",
+			"protein": "4",
+			"fat": "4",
+			"carbo": "25",
+			"kcal": "150"
+		},
+		{
+			"name": "Pudding choc instant fr mix1/2 cup",
+			"protein": "4",
+			"fat": "4",
+			"carbo": "27",
+			"kcal": "155"
+		},
+		{
+			"name": "Pudding chocolate canned 5 oz",
+			"protein": "3",
+			"fat": "11",
+			"carbo": "30",
+			"kcal": "205"
+		},
+		{
+			"name": "Pudding rice from mix 1/2 cup",
+			"protein": "4",
+			"fat": "4",
+			"carbo": "27",
+			"kcal": "155"
+		},
+		{
+			"name": "Pudding tapioca canned 5 oz",
+			"protein": "3",
+			"fat": "5",
+			"carbo": "28",
+			"kcal": "160"
+		},
+		{
+			"name": "Pudding tapioca from mix 1/2 cup",
+			"protein": "4",
+			"fat": "4",
+			"carbo": "25",
+			"kcal": "145"
+		},
+		{
+			"name": "Pudding vanilla canned 5 oz",
+			"protein": "2",
+			"fat": "10",
+			"carbo": "33",
+			"kcal": "220"
+		},
+		{
+			"name": "Pudding vnlla cooked from mix 1/2 cup",
+			"protein": "4",
+			"fat": "4",
+			"carbo": "25",
+			"kcal": "145"
+		},
+		{
+			"name": "Pudding vnlla instant frm mix 1/2 cup",
+			"protein": "4",
+			"fat": "4",
+			"carbo": "27",
+			"kcal": "150"
+		},
+		{
+			"name": "Pumpernickel bread 1 loaf",
+			"protein": "42",
+			"fat": "16",
+			"carbo": "218",
+			"kcal": "1160"
+		},
+		{
+			"name": "Pumpernickel bread 1 slice",
+			"protein": "3",
+			"fat": "1",
+			"carbo": "16",
+			"kcal": "80"
+		},
+		{
+			"name": "Pumpernickel bread toasted 1 slice",
+			"protein": "3",
+			"fat": "1",
+			"carbo": "16",
+			"kcal": "80"
+		},
+		{
+			"name": "Pumpkin and squash kernels 1 oz",
+			"protein": "7",
+			"fat": "13",
+			"carbo": "5",
+			"kcal": "155"
+		},
+		{
+			"name": "Pumpkin pie 1 pie",
+			"protein": "36",
+			"fat": "102",
+			"carbo": "223",
+			"kcal": "1920"
+		},
+		{
+			"name": "Pumpkin pie 1 piece",
+			"protein": "6",
+			"fat": "17",
+			"carbo": "37",
+			"kcal": "320"
+		},
+		{
+			"name": "Pumpkin canned 1 cup",
+			"protein": "3",
+			"fat": "1",
+			"carbo": "20",
+			"kcal": "85"
+		},
+		{
+			"name": "Pumpkin cooked from raw 1 cup",
+			"protein": "2",
+			"fat": "0",
+			"carbo": "12",
+			"kcal": "50"
+		},
+		{
+			"name": "Quiche lorraine 1 slice",
+			"protein": "13",
+			"fat": "48",
+			"carbo": "29",
+			"kcal": "600"
+		},
+		{
+			"name": "Radishes raw 4 radish",
+			"protein": "0",
+			"fat": "0",
+			"carbo": "1",
+			"kcal": "5"
+		},
+		{
+			"name": "Raisin bran kellogg's 1 oz",
+			"protein": "3",
+			"fat": "1",
+			"carbo": "21",
+			"kcal": "90"
+		},
+		{
+			"name": "Raisin bran post 1 oz",
+			"protein": "3",
+			"fat": "1",
+			"carbo": "21",
+			"kcal": "85"
+		},
+		{
+			"name": "Raisin bread 1 loaf",
+			"protein": "37",
+			"fat": "18",
+			"carbo": "239",
+			"kcal": "1260"
+		},
+		{
+			"name": "Raisin bread 1 slice",
+			"protein": "2",
+			"fat": "1",
+			"carbo": "13",
+			"kcal": "65"
+		},
+		{
+			"name": "Raisin bread toasted 1 slice",
+			"protein": "2",
+			"fat": "1",
+			"carbo": "13",
+			"kcal": "65"
+		},
+		{
+			"name": "Raisins 1 cup",
+			"protein": "5",
+			"fat": "1",
+			"carbo": "115",
+			"kcal": "435"
+		},
+		{
+			"name": "Raisins 1 packet",
+			"protein": "0",
+			"fat": "0",
+			"carbo": "11",
+			"kcal": "40"
+		},
+		{
+			"name": "Raspberries frozen sweetened 1 cup",
+			"protein": "2",
+			"fat": "0",
+			"carbo": "65",
+			"kcal": "255"
+		},
+		{
+			"name": "Raspberries frozen sweetened 10 oz",
+			"protein": "2",
+			"fat": "0",
+			"carbo": "74",
+			"kcal": "295"
+		},
+		{
+			"name": "Raspberries raw 1 cup",
+			"protein": "1",
+			"fat": "1",
+			"carbo": "14",
+			"kcal": "60"
+		},
+		{
+			"name": "Red kidney beans dry canned 1 cup",
+			"protein": "15",
+			"fat": "1",
+			"carbo": "42",
+			"kcal": "230"
+		},
+		{
+			"name": "Refried beans canned 1 cup",
+			"protein": "18",
+			"fat": "3",
+			"carbo": "51",
+			"kcal": "295"
+		},
+		{
+			"name": "Relish sweet 1 tbsp",
+			"protein": "0",
+			"fat": "0",
+			"carbo": "5",
+			"kcal": "20"
+		},
+		{
+			"name": "Rhubarb cooked added sugar 1 cup",
+			"protein": "1",
+			"fat": "0",
+			"carbo": "75",
+			"kcal": "280"
+		},
+		{
+			"name": "Rice krispies cereal 1 oz",
+			"protein": "2",
+			"fat": "0",
+			"carbo": "25",
+			"kcal": "110"
+		},
+		{
+			"name": "Rice brown cooked 1 cup",
+			"protein": "5",
+			"fat": "1",
+			"carbo": "50",
+			"kcal": "230"
+		},
+		{
+			"name": "Rice white cooked 1 cup",
+			"protein": "4",
+			"fat": "0",
+			"carbo": "50",
+			"kcal": "225"
+		},
+		{
+			"name": "Rice white instant cooked 1 cup",
+			"protein": "4",
+			"fat": "0",
+			"carbo": "40",
+			"kcal": "180"
+		},
+		{
+			"name": "Rice white parboiled cooked 1 cup",
+			"protein": "4",
+			"fat": "0",
+			"carbo": "41",
+			"kcal": "185"
+		},
+		{
+			"name": "Rice white parboiled raw 1 cup",
+			"protein": "14",
+			"fat": "1",
+			"carbo": "150",
+			"kcal": "685"
+		},
+		{
+			"name": "Rice white raw 1 cup",
+			"protein": "12",
+			"fat": "1",
+			"carbo": "149",
+			"kcal": "670"
+		},
+		{
+			"name": "Ricotta cheese part skim milk 1 cup",
+			"protein": "28",
+			"fat": "19",
+			"carbo": "13",
+			"kcal": "340"
+		},
+		{
+			"name": "Ricotta cheese whole milk 1 cup",
+			"protein": "28",
+			"fat": "32",
+			"carbo": "7",
+			"kcal": "430"
+		},
+		{
+			"name": "Roast beef sandwich 1 sandwh",
+			"protein": "22",
+			"fat": "13",
+			"carbo": "34",
+			"kcal": "345"
+		},
+		{
+			"name": "Rolls dinner commercial 1 roll",
+			"protein": "2",
+			"fat": "2",
+			"carbo": "14",
+			"kcal": "85"
+		},
+		{
+			"name": "Rolls dinner home recipe 1 roll",
+			"protein": "3",
+			"fat": "3",
+			"carbo": "20",
+			"kcal": "120"
+		},
+		{
+			"name": "Rolls frankfurter + hamburger 1 roll",
+			"protein": "3",
+			"fat": "2",
+			"carbo": "20",
+			"kcal": "115"
+		},
+		{
+			"name": "Rolls hard 1 roll",
+			"protein": "5",
+			"fat": "2",
+			"carbo": "30",
+			"kcal": "155"
+		},
+		{
+			"name": "Rolls hoagie or submarine 1 roll",
+			"protein": "11",
+			"fat": "8",
+			"carbo": "72",
+			"kcal": "400"
+		},
+		{
+			"name": "Root beer 12 fl oz",
+			"protein": "0",
+			"fat": "0",
+			"carbo": "42",
+			"kcal": "165"
+		},
+		{
+			"name": "Rye bread light 1 loaf",
+			"protein": "38",
+			"fat": "17",
+			"carbo": "218",
+			"kcal": "1190"
+		},
+		{
+			"name": "Rye bread light 1 slice",
+			"protein": "2",
+			"fat": "1",
+			"carbo": "12",
+			"kcal": "65"
+		},
+		{
+			"name": "Rye bread light toasted 1 slice",
+			"protein": "2",
+			"fat": "1",
+			"carbo": "12",
+			"kcal": "65"
+		},
+		{
+			"name": "Rye wafers whole-grain 2 wafers",
+			"protein": "1",
+			"fat": "1",
+			"carbo": "10",
+			"kcal": "55"
+		},
+		{
+			"name": "Safflower oil 1 cup",
+			"protein": "0",
+			"fat": "218",
+			"carbo": "0",
+			"kcal": "1925"
+		},
+		{
+			"name": "Safflower oil 1 tbsp",
+			"protein": "0",
+			"fat": "14",
+			"carbo": "0",
+			"kcal": "125"
+		},
+		{
+			"name": "Salami cooked type 2 slices",
+			"protein": "8",
+			"fat": "11",
+			"carbo": "1",
+			"kcal": "145"
+		},
+		{
+			"name": "Salami dry type 2 slices",
+			"protein": "5",
+			"fat": "7",
+			"carbo": "1",
+			"kcal": "85"
+		},
+		{
+			"name": "Salmon baked red 3 oz",
+			"protein": "21",
+			"fat": "5",
+			"carbo": "0",
+			"kcal": "140"
+		},
+		{
+			"name": "Salmon canned pink w/ bones 3 oz",
+			"protein": "17",
+			"fat": "5",
+			"carbo": "0",
+			"kcal": "120"
+		},
+		{
+			"name": "Salmon smoked 3 oz",
+			"protein": "18",
+			"fat": "8",
+			"carbo": "0",
+			"kcal": "150"
+		},
+		{
+			"name": "Salt 1 tsp",
+			"protein": "0",
+			"fat": "0",
+			"carbo": "0",
+			"kcal": "0"
+		},
+		{
+			"name": "Saltines 4 crackr",
+			"protein": "1",
+			"fat": "1",
+			"carbo": "9",
+			"kcal": "50"
+		},
+		{
+			"name": "Sandwich spread pork beef 1 tbsp",
+			"protein": "1",
+			"fat": "3",
+			"carbo": "2",
+			"kcal": "35"
+		},
+		{
+			"name": "Sandwich type cookie 4 cookie",
+			"protein": "2",
+			"fat": "8",
+			"carbo": "29",
+			"kcal": "195"
+		},
+		{
+			"name": "Sardines atlntc cnned oil drn 3 oz",
+			"protein": "20",
+			"fat": "9",
+			"carbo": "0",
+			"kcal": "175"
+		},
+		{
+			"name": "Sauerkraut canned 1 cup",
+			"protein": "2",
+			"fat": "0",
+			"carbo": "10",
+			"kcal": "45"
+		},
+		{
+			"name": "Scallops breaded frznreheat 6 scalop",
+			"protein": "15",
+			"fat": "10",
+			"carbo": "10",
+			"kcal": "195"
+		},
+		{
+			"name": "Seaweed kelp raw 1 oz",
+			"protein": "0",
+			"fat": "0",
+			"carbo": "3",
+			"kcal": "10"
+		},
+		{
+			"name": "Seaweed spirulina dried 1 oz",
+			"protein": "16",
+			"fat": "2",
+			"carbo": "7",
+			"kcal": "80"
+		},
+		{
+			"name": "Self-rising flour unsifted 1 cup",
+			"protein": "12",
+			"fat": "1",
+			"carbo": "93",
+			"kcal": "440"
+		},
+		{
+			"name": "Semisweet chocolate 1 cup",
+			"protein": "7",
+			"fat": "61",
+			"carbo": "97",
+			"kcal": "860"
+		},
+		{
+			"name": "Sesame seeds 1 tbsp",
+			"protein": "2",
+			"fat": "4",
+			"carbo": "1",
+			"kcal": "45"
+		},
+		{
+			"name": "Shakes thick chocolate 10 oz",
+			"protein": "9",
+			"fat": "8",
+			"carbo": "60",
+			"kcal": "335"
+		},
+		{
+			"name": "Shakes thick vanilla 10 oz",
+			"protein": "11",
+			"fat": "9",
+			"carbo": "50",
+			"kcal": "315"
+		},
+		{
+			"name": "Sheetcake w/o frstng homerecip 1 cake",
+			"protein": "35",
+			"fat": "108",
+			"carbo": "434",
+			"kcal": "2830"
+		},
+		{
+			"name": "Sheetcakew/ whfrstng homercip 1 cake",
+			"protein": "37",
+			"fat": "129",
+			"carbo": "694",
+			"kcal": "4020"
+		},
+		{
+			"name": "Sheetcakew/ whfrstng homercip 1 piece",
+			"protein": "4",
+			"fat": "14",
+			"carbo": "77",
+			"kcal": "445"
+		},
+		{
+			"name": "Sheetcakew/o frstng homerecip 1 piece",
+			"protein": "4",
+			"fat": "12",
+			"carbo": "48",
+			"kcal": "315"
+		},
+		{
+			"name": "Sherbet 2% fat 1 cup",
+			"protein": "2",
+			"fat": "4",
+			"carbo": "59",
+			"kcal": "270"
+		},
+		{
+			"name": "Sherbet 2% fat 1/2 gal",
+			"protein": "17",
+			"fat": "31",
+			"carbo": "469",
+			"kcal": "2160"
+		},
+		{
+			"name": "Shortbread cookie commercial 4 cookie",
+			"protein": "2",
+			"fat": "8",
+			"carbo": "20",
+			"kcal": "155"
+		},
+		{
+			"name": "Shortbread cookie home recipe 2 cookie",
+			"protein": "2",
+			"fat": "8",
+			"carbo": "17",
+			"kcal": "145"
+		},
+		{
+			"name": "Shredded wheat cereal 1 oz",
+			"protein": "3",
+			"fat": "1",
+			"carbo": "23",
+			"kcal": "100"
+		},
+		{
+			"name": "Shrimp canned drained 3 oz",
+			"protein": "21",
+			"fat": "1",
+			"carbo": "1",
+			"kcal": "100"
+		},
+		{
+			"name": "Shrimp french fried 3 oz",
+			"protein": "16",
+			"fat": "10",
+			"carbo": "11",
+			"kcal": "200"
+		},
+		{
+			"name": "Snack cakesdevils food cremflsm cake",
+			"protein": "1",
+			"fat": "4",
+			"carbo": "17",
+			"kcal": "105"
+		},
+		{
+			"name": "Snack cakessponge creme fllngsm cake",
+			"protein": "1",
+			"fat": "5",
+			"carbo": "27",
+			"kcal": "155"
+		},
+		{
+			"name": "Snack type crackers 1 crackr",
+			"protein": "0",
+			"fat": "1",
+			"carbo": "2",
+			"kcal": "15"
+		},
+		{
+			"name": "Snap bean cnnd drnd green salt 1 cup",
+			"protein": "2",
+			"fat": "0",
+			"carbo": "6",
+			"kcal": "25"
+		},
+		{
+			"name": "Snap bean cnnd drn dgrn no salt1 cup",
+			"protein": "2",
+			"fat": "0",
+			"carbo": "6",
+			"kcal": "25"
+		},
+		{
+			"name": "Snap bean cnnd drn dyll w salt 1 cup",
+			"protein": "2",
+			"fat": "0",
+			"carbo": "6",
+			"kcal": "25"
+		},
+		{
+			"name": "Snap beanc nnd drn dyll w no sal 1 cup",
+			"protein": "2",
+			"fat": "0",
+			"carbo": "6",
+			"kcal": "25"
+		},
+		{
+			"name": "Snap bean frz ckd drnd green 1 cup",
+			"protein": "2",
+			"fat": "0",
+			"carbo": "8",
+			"kcal": "35"
+		},
+		{
+			"name": "Snap bean frz ckd drnd yellow 1 cup",
+			"protein": "2",
+			"fat": "0",
+			"carbo": "8",
+			"kcal": "35"
+		},
+		{
+			"name": "Snap bean raw ckd drnd green 1 cup",
+			"protein": "2",
+			"fat": "0",
+			"carbo": "10",
+			"kcal": "45"
+		},
+		{
+			"name": "Snap bean raw ckd drnd yellow 1 cup",
+			"protein": "2",
+			"fat": "0",
+			"carbo": "10",
+			"kcal": "45"
+		},
+		{
+			"name": "Sour cream 1 cup",
+			"protein": "7",
+			"fat": "48",
+			"carbo": "10",
+			"kcal": "495"
+		},
+		{
+			"name": "Sour cream 1 tbsp",
+			"protein": "0",
+			"fat": "3",
+			"carbo": "1",
+			"kcal": "25"
+		},
+		{
+			"name": "Soy sauce 1 tbsp",
+			"protein": "2",
+			"fat": "0",
+			"carbo": "2",
+			"kcal": "10"
+		},
+		{
+			"name": "Soybean oil hydrogenated 1 cup",
+			"protein": "0",
+			"fat": "218",
+			"carbo": "0",
+			"kcal": "1925"
+		},
+		{
+			"name": "Soybean oil hydrogenated 1 tbsp",
+			"protein": "0",
+			"fat": "14",
+			"carbo": "0",
+			"kcal": "125"
+		},
+		{
+			"name": "Soybean-cottonseed oil hydrgn 1 cup",
+			"protein": "0",
+			"fat": "218",
+			"carbo": "0",
+			"kcal": "1925"
+		},
+		{
+			"name": "Soybean-cottonseed oil hydrgn 1 tbsp",
+			"protein": "0",
+			"fat": "14",
+			"carbo": "0",
+			"kcal": "125"
+		},
+		{
+			"name": "Soybeans dry cooked drained 1 cup",
+			"protein": "20",
+			"fat": "10",
+			"carbo": "19",
+			"kcal": "235"
+		},
+		{
+			"name": "Spaghetti cooked firm 1 cup",
+			"protein": "7",
+			"fat": "1",
+			"carbo": "39",
+			"kcal": "190"
+		},
+		{
+			"name": "Spaghetti cooked tender 1 cup",
+			"protein": "5",
+			"fat": "1",
+			"carbo": "32",
+			"kcal": "155"
+		},
+		{
+			"name": "Spaghetti tom sauce cheehmrp 1 cup",
+			"protein": "9",
+			"fat": "9",
+			"carbo": "37",
+			"kcal": "260"
+		},
+		{
+			"name": "Spaghetti tom sauce cheescnd 1 cup",
+			"protein": "6",
+			"fat": "2",
+			"carbo": "39",
+			"kcal": "190"
+		},
+		{
+			"name": "Spaghetti meatball stomsahmrp 1 cup",
+			"protein": "19",
+			"fat": "12",
+			"carbo": "39",
+			"kcal": "330"
+		},
+		{
+			"name": "Spaghetti meatball stomsac cnd 1 cup",
+			"protein": "12",
+			"fat": "10",
+			"carbo": "29",
+			"kcal": "260"
+		},
+		{
+			"name": "Special k cereal 1 oz",
+			"protein": "6",
+			"fat": "0",
+			"carbo": "21",
+			"kcal": "110"
+		},
+		{
+			"name": "Spinach souffle 1 cup",
+			"protein": "11",
+			"fat": "18",
+			"carbo": "3",
+			"kcal": "220"
+		},
+		{
+			"name": "Spinach canned drnd w/ salt 1 cup",
+			"protein": "6",
+			"fat": "1",
+			"carbo": "7",
+			"kcal": "50"
+		},
+		{
+			"name": "Spinach canned drnd w/o salt 1 cup",
+			"protein": "6",
+			"fat": "1",
+			"carbo": "7",
+			"kcal": "50"
+		},
+		{
+			"name": "Spinach cooked fr frzen drnd 1 cup",
+			"protein": "6",
+			"fat": "0",
+			"carbo": "10",
+			"kcal": "55"
+		},
+		{
+			"name": "Spinach cooked from raw drnd 1 cup",
+			"protein": "5",
+			"fat": "0",
+			"carbo": "7",
+			"kcal": "40"
+		},
+		{
+			"name": "Spinach raw 1 cup",
+			"protein": "2",
+			"fat": "0",
+			"carbo": "2",
+			"kcal": "10"
+		},
+		{
+			"name": "Squash summer cooked draind 1 cup",
+			"protein": "2",
+			"fat": "1",
+			"carbo": "8",
+			"kcal": "35"
+		},
+		{
+			"name": "Squash winter baked 1 cup",
+			"protein": "2",
+			"fat": "1",
+			"carbo": "18",
+			"kcal": "80"
+		},
+		{
+			"name": "Strawberries frozen sweetend 1 cup",
+			"protein": "1",
+			"fat": "0",
+			"carbo": "66",
+			"kcal": "245"
+		},
+		{
+			"name": "Strawberries frozen sweetend 10 oz",
+			"protein": "2",
+			"fat": "0",
+			"carbo": "74",
+			"kcal": "275"
+		},
+		{
+			"name": "Strawberries raw 1 cup",
+			"protein": "1",
+			"fat": "1",
+			"carbo": "10",
+			"kcal": "45"
+		},
+		{
+			"name": "Sugar cookie from refrig dogh 4 cookie",
+			"protein": "2",
+			"fat": "12",
+			"carbo": "31",
+			"kcal": "235"
+		},
+		{
+			"name": "Sugar frosted flakes kellogg 1 oz",
+			"protein": "1",
+			"fat": "0",
+			"carbo": "26",
+			"kcal": "110"
+		},
+		{
+			"name": "Sugar smacks cereal 1 oz",
+			"protein": "2",
+			"fat": "1",
+			"carbo": "25",
+			"kcal": "105"
+		},
+		{
+			"name": "Sugar brown pressed down 1 cup",
+			"protein": "0",
+			"fat": "0",
+			"carbo": "212",
+			"kcal": "820"
+		},
+		{
+			"name": "Sugar powdered sifted 1 cup",
+			"protein": "0",
+			"fat": "0",
+			"carbo": "100",
+			"kcal": "385"
+		},
+		{
+			"name": "Sugar white granulated 1 cup",
+			"protein": "0",
+			"fat": "0",
+			"carbo": "199",
+			"kcal": "770"
+		},
+		{
+			"name": "Sugar white granulated 1 pkt",
+			"protein": "0",
+			"fat": "0",
+			"carbo": "6",
+			"kcal": "25"
+		},
+		{
+			"name": "Sugar white granulated 1 tbsp",
+			"protein": "0",
+			"fat": "0",
+			"carbo": "12",
+			"kcal": "45"
+		},
+		{
+			"name": "Sunflower oil 1 cup",
+			"protein": "0",
+			"fat": "218",
+			"carbo": "0",
+			"kcal": "1925"
+		},
+		{
+			"name": "Sunflower oil 1 tbsp",
+			"protein": "0",
+			"fat": "14",
+			"carbo": "0",
+			"kcal": "125"
+		},
+		{
+			"name": "Sunflower seeds 1 oz",
+			"protein": "6",
+			"fat": "14",
+			"carbo": "5",
+			"kcal": "160"
+		},
+		{
+			"name": "Super sugar crisp cereal 1 oz",
+			"protein": "2",
+			"fat": "0",
+			"carbo": "26",
+			"kcal": "105"
+		},
+		{
+			"name": "Sweet (dark) chocolate 1 oz",
+			"protein": "1",
+			"fat": "10",
+			"carbo": "16",
+			"kcal": "150"
+		},
+		{
+			"name": "Sweetened condensed milk cnnd 1 cup",
+			"protein": "24",
+			"fat": "27",
+			"carbo": "166",
+			"kcal": "980"
+		},
+		{
+			"name": "Sweet potatoes baked peeled 1 potato",
+			"protein": "2",
+			"fat": "0",
+			"carbo": "28",
+			"kcal": "115"
+		},
+		{
+			"name": "Sweet potatoes boiled w/o peel1 potato",
+			"protein": "2",
+			"fat": "0",
+			"carbo": "37",
+			"kcal": "160"
+		},
+		{
+			"name": "Sweet potatoes candied 1 piece",
+			"protein": "1",
+			"fat": "3",
+			"carbo": "29",
+			"kcal": "145"
+		},
+		{
+			"name": "Sweet potatoes canned mashed 1 cup",
+			"protein": "5",
+			"fat": "1",
+			"carbo": "59",
+			"kcal": "260"
+		},
+		{
+			"name": "Sweet potatoes cnned vac pack 1 piece",
+			"protein": "1",
+			"fat": "0",
+			"carbo": "8",
+			"kcal": "35"
+		},
+		{
+			"name": "Swiss cheese 1 oz",
+			"protein": "8",
+			"fat": "8",
+			"carbo": "1",
+			"kcal": "105"
+		},
+		{
+			"name": "Syrup chocolate flavored thin 2 tbsp",
+			"protein": "1",
+			"fat": "0",
+			"carbo": "22",
+			"kcal": "85"
+		},
+		{
+			"name": "Syrup chocolate flvred fudge 2 tbsp",
+			"protein": "2",
+			"fat": "5",
+			"carbo": "21",
+			"kcal": "125"
+		},
+		{
+			"name": "Table syrup (corn and maple) 2 tbsp",
+			"protein": "0",
+			"fat": "0",
+			"carbo": "32",
+			"kcal": "122"
+		},
+		{
+			"name": "Taco 1 taco",
+			"protein": "9",
+			"fat": "11",
+			"carbo": "15",
+			"kcal": "195"
+		},
+		{
+			"name": "Tahini 1 tbsp",
+			"protein": "3",
+			"fat": "8",
+			"carbo": "3",
+			"kcal": "90"
+		},
+		{
+			"name": "Tangerine juice canned swtned 1 cup",
+			"protein": "1",
+			"fat": "0",
+			"carbo": "30",
+			"kcal": "125"
+		},
+		{
+			"name": "Tangerines canned light syrp 1 cup",
+			"protein": "1",
+			"fat": "0",
+			"carbo": "41",
+			"kcal": "155"
+		},
+		{
+			"name": "Tangerines raw 1 tangrn",
+			"protein": "1",
+			"fat": "0",
+			"carbo": "9",
+			"kcal": "35"
+		},
+		{
+			"name": "Tartar sauce 1 tbsp",
+			"protein": "0",
+			"fat": "8",
+			"carbo": "1",
+			"kcal": "75"
+		},
+		{
+			"name": "Tea brewed 8 fl oz",
+			"protein": "0",
+			"fat": "0",
+			"carbo": "0",
+			"kcal": "0"
+		},
+		{
+			"name": "Tea instant preprd unsweetend 8 fl oz",
+			"protein": "0",
+			"fat": "0",
+			"carbo": "1",
+			"kcal": "0"
+		},
+		{
+			"name": "Tea instant prepard sweetened 8 fl oz",
+			"protein": "0",
+			"fat": "0",
+			"carbo": "22",
+			"kcal": "85"
+		},
+		{
+			"name": "Toaster pastries 1 pastry",
+			"protein": "2",
+			"fat": "6",
+			"carbo": "38",
+			"kcal": "210"
+		},
+		{
+			"name": "Tofu 1 piece",
+			"protein": "9",
+			"fat": "5",
+			"carbo": "3",
+			"kcal": "85"
+		},
+		{
+			"name": "Tomato juice canned w/o salt 1 cup",
+			"protein": "2",
+			"fat": "0",
+			"carbo": "10",
+			"kcal": "40"
+		},
+		{
+			"name": "Tomato juice canned with salt 1 cup",
+			"protein": "2",
+			"fat": "0",
+			"carbo": "10",
+			"kcal": "40"
+		},
+		{
+			"name": "Tomato paste canned w/o salt 1 cup",
+			"protein": "10",
+			"fat": "2",
+			"carbo": "49",
+			"kcal": "220"
+		},
+		{
+			"name": "Tomato paste canned with salt 1 cup",
+			"protein": "10",
+			"fat": "2",
+			"carbo": "49",
+			"kcal": "220"
+		},
+		{
+			"name": "Tomato puree canned w/o salt 1 cup",
+			"protein": "4",
+			"fat": "0",
+			"carbo": "25",
+			"kcal": "105"
+		},
+		{
+			"name": "Tomato puree canned with salt 1 cup",
+			"protein": "4",
+			"fat": "0",
+			"carbo": "25",
+			"kcal": "105"
+		},
+		{
+			"name": "Tomato sauce canned with salt 1 cup",
+			"protein": "3",
+			"fat": "0",
+			"carbo": "18",
+			"kcal": "75"
+		},
+		{
+			"name": "Tomato soup w/ water canned 1 cup",
+			"protein": "2",
+			"fat": "2",
+			"carbo": "17",
+			"kcal": "85"
+		},
+		{
+			"name": "Tomato soup with milk canned 1 cup",
+			"protein": "6",
+			"fat": "6",
+			"carbo": "22",
+			"kcal": "160"
+		},
+		{
+			"name": "Tomato veg soup dehyd prepred 1 pkt",
+			"protein": "1",
+			"fat": "1",
+			"carbo": "8",
+			"kcal": "40"
+		},
+		{
+			"name": "Tomatoes canned s+l w/ salt 1 cup",
+			"protein": "2",
+			"fat": "1",
+			"carbo": "10",
+			"kcal": "50"
+		},
+		{
+			"name": "Tomatoes canned s+lw/o salt 1 cup",
+			"protein": "2",
+			"fat": "1",
+			"carbo": "10",
+			"kcal": "50"
+		},
+		{
+			"name": "Tomatoes raw 1 tomato",
+			"protein": "1",
+			"fat": "0",
+			"carbo": "5",
+			"kcal": "25"
+		},
+		{
+			"name": "Tortillas corn 1 tortla",
+			"protein": "2",
+			"fat": "1",
+			"carbo": "13",
+			"kcal": "65"
+		},
+		{
+			"name": "Total cereal 1 oz",
+			"protein": "3",
+			"fat": "1",
+			"carbo": "22",
+			"kcal": "100"
+		},
+		{
+			"name": "Trix cereal 1 oz",
+			"protein": "2",
+			"fat": "0",
+			"carbo": "25",
+			"kcal": "110"
+		},
+		{
+			"name": "Trout broiled w/ buttrlemju 3 oz",
+			"protein": "21",
+			"fat": "9",
+			"carbo": "0",
+			"kcal": "175"
+		},
+		{
+			"name": "Tuna salad 1 cup",
+			"protein": "33",
+			"fat": "19",
+			"carbo": "19",
+			"kcal": "375"
+		},
+		{
+			"name": "Tuna cannd drnd oil chklght3  oz",
+			"protein": "24",
+			"fat": "7",
+			"carbo": "0",
+			"kcal": "165"
+		},
+		{
+			"name": "Tuna cannd drndwatr white 3 oz",
+			"protein": "30",
+			"fat": "1",
+			"carbo": "0",
+			"kcal": "135"
+		},
+		{
+			"name": "Turkey ham cured turkey thigh 2 slices",
+			"protein": "11",
+			"fat": "3",
+			"carbo": "0",
+			"kcal": "75"
+		},
+		{
+			"name": "Turkey loaf breast meat w/o c 2 slices",
+			"protein": "10",
+			"fat": "1",
+			"carbo": "0",
+			"kcal": "45"
+		},
+		{
+			"name": "Turkey loaf breast meat w/ c 2 slices",
+			"protein": "10",
+			"fat": "1",
+			"carbo": "0",
+			"kcal": "45"
+		},
+		{
+			"name": "Turkey patties brd battd frid 1 patty",
+			"protein": "9",
+			"fat": "12",
+			"carbo": "10",
+			"kcal": "180"
+		},
+		{
+			"name": "Turkey roast frznlght+drkck3 oz",
+			"protein": "18",
+			"fat": "5",
+			"carbo": "3",
+			"kcal": "130"
+		},
+		{
+			"name": "Turkey roasted dark meat 4 pieces",
+			"protein": "24",
+			"fat": "6",
+			"carbo": "0",
+			"kcal": "160"
+		},
+		{
+			"name": "Turkey roasted light + dark 1 cup",
+			"protein": "41",
+			"fat": "7",
+			"carbo": "0",
+			"kcal": "240"
+		},
+		{
+			"name": "Turkey roasted light + dark 3 pieces",
+			"protein": "25",
+			"fat": "4",
+			"carbo": "0",
+			"kcal": "145"
+		},
+		{
+			"name": "Turkey roasted light meat 2 pieces",
+			"protein": "25",
+			"fat": "3",
+			"carbo": "0",
+			"kcal": "135"
+		},
+		{
+			"name": "Turnip greens cked frm frozen1 cup",
+			"protein": "5",
+			"fat": "1",
+			"carbo": "8",
+			"kcal": "50"
+		},
+		{
+			"name": "Turnip greens cooked from raw1 cup",
+			"protein": "2",
+			"fat": "0",
+			"carbo": "6",
+			"kcal": "30"
+		},
+		{
+			"name": "Turnips cooked diced 1 cup",
+			"protein": "1",
+			"fat": "0",
+			"carbo": "8",
+			"kcal": "30"
+		},
+		{
+			"name": "Vanilla wafers 10 cooke",
+			"protein": "2",
+			"fat": "7",
+			"carbo": "29",
+			"kcal": "185"
+		},
+		{
+			"name": "Veal cutlet med fatbrsdbrld 3 oz",
+			"protein": "23",
+			"fat": "9",
+			"carbo": "0",
+			"kcal": "185"
+		},
+		{
+			"name": "Veal rib med fat roasted 3 oz",
+			"protein": "23",
+			"fat": "14",
+			"carbo": "0",
+			"kcal": "230"
+		},
+		{
+			"name": "Vegetable beef soup canned 1 cup",
+			"protein": "6",
+			"fat": "2",
+			"carbo": "10",
+			"kcal": "80"
+		},
+		{
+			"name": "Vegetable juice cocktail cnnd 1 cup",
+			"protein": "2",
+			"fat": "0",
+			"carbo": "11",
+			"kcal": "45"
+		},
+		{
+			"name": "Vegetables mixed canned 1 cup",
+			"protein": "4",
+			"fat": "0",
+			"carbo": "15",
+			"kcal": "75"
+		},
+		{
+			"name": "Vegetables mixed cked fr frz 1 cup",
+			"protein": "5",
+			"fat": "0",
+			"carbo": "24",
+			"kcal": "105"
+		},
+		{
+			"name": "Vegetarian soup canned 1 cup",
+			"protein": "2",
+			"fat": "2",
+			"carbo": "12",
+			"kcal": "70"
+		},
+		{
+			"name": "Vienna bread 1 slice",
+			"protein": "2",
+			"fat": "1",
+			"carbo": "13",
+			"kcal": "70"
+		},
+		{
+			"name": "Vienna sausage 1 sausag",
+			"protein": "2",
+			"fat": "4",
+			"carbo": "0",
+			"kcal": "45"
+		},
+		{
+			"name": "Vinegar and oil salad dressing 1 tbsp",
+			"protein": "0",
+			"fat": "8",
+			"carbo": "0",
+			"kcal": "70"
+		},
+		{
+			"name": "Vinegar cider 1 tbsp",
+			"protein": "0",
+			"fat": "0",
+			"carbo": "1",
+			"kcal": "0"
+		},
+		{
+			"name": "Waffles from home recipe 1 waffle",
+			"protein": "7",
+			"fat": "13",
+			"carbo": "26",
+			"kcal": "245"
+		},
+		{
+			"name": "Waffles from mix 1 waffle",
+			"protein": "7",
+			"fat": "8",
+			"carbo": "27",
+			"kcal": "205"
+		},
+		{
+			"name": "Walnuts black chopped 1 cup",
+			"protein": "30",
+			"fat": "71",
+			"carbo": "15",
+			"kcal": "760"
+		},
+		{
+			"name": "Walnuts black chopped 1 oz",
+			"protein": "7",
+			"fat": "16",
+			"carbo": "3",
+			"kcal": "170"
+		},
+		{
+			"name": "Walnuts english pieces 1 cup",
+			"protein": "17",
+			"fat": "74",
+			"carbo": "22",
+			"kcal": "770"
+		},
+		{
+			"name": "Walnuts english pieces 1 oz",
+			"protein": "4",
+			"fat": "18",
+			"carbo": "5",
+			"kcal": "180"
+		},
+		{
+			"name": "Water chestnuts canned 1 cup",
+			"protein": "1",
+			"fat": "0",
+			"carbo": "17",
+			"kcal": "70"
+		},
+		{
+			"name": "Watermelon raw 1 piece",
+			"protein": "3",
+			"fat": "2",
+			"carbo": "35",
+			"kcal": "155"
+		},
+		{
+			"name": "Watermelon raw diced 1 cup",
+			"protein": "1",
+			"fat": "1",
+			"carbo": "11",
+			"kcal": "50"
+		},
+		{
+			"name": "Wheat bread 1 loaf",
+			"protein": "43",
+			"fat": "19",
+			"carbo": "213",
+			"kcal": "1160"
+		},
+		{
+			"name": "Wheat bread 1 slice",
+			"protein": "2",
+			"fat": "1",
+			"carbo": "12",
+			"kcal": "65"
+		},
+		{
+			"name": "Wheat bread toasted 1 slice",
+			"protein": "3",
+			"fat": "1",
+			"carbo": "12",
+			"kcal": "65"
+		},
+		{
+			"name": "Wheat flour all-purpose siftd 1 cup",
+			"protein": "12",
+			"fat": "1",
+			"carbo": "88",
+			"kcal": "420"
+		},
+		{
+			"name": "Wheat flour all-purpose unsif 1 cup",
+			"protein": "13",
+			"fat": "1",
+			"carbo": "95",
+			"kcal": "455"
+		},
+		{
+			"name": "Wheat thin crackers 4 crackr",
+			"protein": "1",
+			"fat": "1",
+			"carbo": "5",
+			"kcal": "35"
+		},
+		{
+			"name": "Wheaties cereal 1 oz",
+			"protein": "3",
+			"fat": "0",
+			"carbo": "23",
+			"kcal": "100"
+		},
+		{
+			"name": "Whipped topping pressurized 1 cup",
+			"protein": "2",
+			"fat": "13",
+			"carbo": "7",
+			"kcal": "155"
+		},
+		{
+			"name": "Whipped topping pressurized 1 tbsp",
+			"protein": "0",
+			"fat": "1",
+			"carbo": "0",
+			"kcal": "10"
+		},
+		{
+			"name": "Whipping cream unwhiped heavy 1 cup",
+			"protein": "5",
+			"fat": "88",
+			"carbo": "7",
+			"kcal": "820"
+		},
+		{
+			"name": "Whipping cream unwhiped heavy 1 tbsp",
+			"protein": "0",
+			"fat": "6",
+			"carbo": "0",
+			"kcal": "50"
+		},
+		{
+			"name": "Whipping cream unwhiped light 1 cup",
+			"protein": "5",
+			"fat": "74",
+			"carbo": "7",
+			"kcal": "700"
+		},
+		{
+			"name": "Whipping cream unwhiped light 1 tbsp",
+			"protein": "0",
+			"fat": "5",
+			"carbo": "0",
+			"kcal": "45"
+		},
+		{
+			"name": "White bread 1 loaf",
+			"protein": "38",
+			"fat": "18",
+			"carbo": "222",
+			"kcal": "1210"
+		},
+		{
+			"name": "White bread crumbs soft 1 cup",
+			"protein": "4",
+			"fat": "2",
+			"carbo": "22",
+			"kcal": "120"
+		},
+		{
+			"name": "White bread cubes 1 cup",
+			"protein": "2",
+			"fat": "1",
+			"carbo": "15",
+			"kcal": "80"
+		},
+		{
+			"name": "White bread slice 18 per loaf 1 slice",
+			"protein": "2",
+			"fat": "1",
+			"carbo": "12",
+			"kcal": "65"
+		},
+		{
+			"name": "White bread slice 22 per loaf 1 slice",
+			"protein": "2",
+			"fat": "1",
+			"carbo": "10",
+			"kcal": "55"
+		},
+		{
+			"name": "White bread toasted 18 per 1 slice",
+			"protein": "2",
+			"fat": "1",
+			"carbo": "12",
+			"kcal": "65"
+		},
+		{
+			"name": "White bread toasted 22 per 1 slice",
+			"protein": "2",
+			"fat": "1",
+			"carbo": "10",
+			"kcal": "55"
+		},
+		{
+			"name": "White cake w/ wht frstng comml 1 cake",
+			"protein": "43",
+			"fat": "148",
+			"carbo": "670",
+			"kcal": "4170"
+		},
+		{
+			"name": "White cake w/ wht frstng comml 1 piece",
+			"protein": "3",
+			"fat": "9",
+			"carbo": "42",
+			"kcal": "260"
+		},
+		{
+			"name": "White sauce w/ milk from mix 1 cup",
+			"protein": "10",
+			"fat": "13",
+			"carbo": "21",
+			"kcal": "240"
+		},
+		{
+			"name": "White sauce medium home recp 1 cup",
+			"protein": "10",
+			"fat": "30",
+			"carbo": "24",
+			"kcal": "395"
+		},
+		{
+			"name": "Whole-wheat bread 1 loaf",
+			"protein": "44",
+			"fat": "20",
+			"carbo": "206",
+			"kcal": "1110"
+		},
+		{
+			"name": "Whole-wheat bread 1 slice",
+			"protein": "3",
+			"fat": "1",
+			"carbo": "13",
+			"kcal": "70"
+		},
+		{
+			"name": "Whole-wheat bread toasted 1 slice",
+			"protein": "3",
+			"fat": "1",
+			"carbo": "13",
+			"kcal": "70"
+		},
+		{
+			"name": "Whole-wheat flourhrd wht stir 1 cup",
+			"protein": "16",
+			"fat": "2",
+			"carbo": "85",
+			"kcal": "400"
+		},
+		{
+			"name": "Whole-wheat wafers crackers 2 crackr",
+			"protein": "1",
+			"fat": "2",
+			"carbo": "5",
+			"kcal": "35"
+		},
+		{
+			"name": "Wine dessert 3.5 f oz",
+			"protein": "0",
+			"fat": "0",
+			"carbo": "8",
+			"kcal": "140"
+		},
+		{
+			"name": "Wine table red 3.5 f oz",
+			"protein": "0",
+			"fat": "0",
+			"carbo": "3",
+			"kcal": "75"
+		},
+		{
+			"name": "Wine table white 3.5 f oz",
+			"protein": "0",
+			"fat": "0",
+			"carbo": "3",
+			"kcal": "80"
+		},
+		{
+			"name": "Yeast bakers dry active 1 pkg",
+			"protein": "3",
+			"fat": "0",
+			"carbo": "3",
+			"kcal": "20"
+		},
+		{
+			"name": "Yeast brewers dry 1 tbsp",
+			"protein": "3",
+			"fat": "0",
+			"carbo": "3",
+			"kcal": "25"
+		},
+		{
+			"name": "Yellow cake w/ choc frst fr mix 1 cake",
+			"protein": "45",
+			"fat": "125",
+			"carbo": "638",
+			"kcal": "3735"
+		},
+		{
+			"name": "Yellow cake w/ choc frst fr mix 1 piece",
+			"protein": "3",
+			"fat": "8",
+			"carbo": "40",
+			"kcal": "235"
+		},
+		{
+			"name": "Yellowcake w/ choc frstngcomml 1 cake",
+			"protein": "40",
+			"fat": "175",
+			"carbo": "620",
+			"kcal": "3895"
+		},
+		{
+			"name": "Yellowcake w/ choc frstng comml 1 piece",
+			"protein": "2",
+			"fat": "11",
+			"carbo": "39",
+			"kcal": "245"
+		},
+		{
+			"name": "Yogurt w/ lofat milk plain 8 oz",
+			"protein": "12",
+			"fat": "4",
+			"carbo": "16",
+			"kcal": "145"
+		},
+		{
+			"name": "Yogurt w/ lofat milk fruit flv 8 oz",
+			"protein": "10",
+			"fat": "2",
+			"carbo": "43",
+			"kcal": "230"
+		},
+		{
+			"name": "Yogurt w/ nonfat milk 8 oz",
+			"protein": "13",
+			"fat": "0",
+			"carbo": "17",
+			"kcal": "125"
+		},
+		{
+			"name": "Yogurt w/ whole milk 8 oz",
+			"protein": "8",
+			"fat": "7",
+			"carbo": "11",
+			"kcal": "140"
+		},
+		{
+			"name": "Zuchini 1/2 cup",
+			"protein": "1",
+			"fat": "0",
+			"carbo": "3",
+			"kcal": "16"
+		}
+	]
+}

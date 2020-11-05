@@ -1,0 +1,26 @@
+[
+    {
+        "number": "500022",
+        "category": "3",
+        "title": "Завтрак",
+        "color": "#f5d142"
+    },
+    {
+        "number": "500098",
+        "category": "0",
+        "title": "Перекусы",
+        "color": "#f5428d"
+    },
+    {
+        "number": "500050",
+        "category": "1",
+        "title": "Обед",
+        "color": "#f54242"
+    },
+    {
+        "number": "500071",
+        "category": "2",
+        "title": "Ужин",
+        "color": "#f5a442"
+    }
+]
